@@ -1,0 +1,81 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "nova_structures:hamlet",
+      "required": false
+    },
+    {
+      "id": "nova_structures:village_jungle",
+      "required": false
+    },
+    {
+      "id": "nova_structures:village_swamp",
+      "required": false
+    },
+    {
+      "id": "terralith:fortified_village",
+      "required": false
+    },
+    {
+      "id": "terralith:fortified_desert_village",
+      "required": false
+    },
+    {
+      "id": "ribbits:ribbit_village",
+      "required": false
+    },
+    {
+      "id": "medieval_buildings:fort",
+      "required": false
+    },
+    {
+      "id": "medieval_buildings:tower",
+      "required": false
+    },
+    {
+      "id": "medieval_buildings:ship",
+      "required": false
+    },
+    {
+      "id": "medieval_buildings:house_1",
+      "required": false
+    },
+    {
+      "id": "medieval_buildings:house_2",
+      "required": false
+    },
+    {
+      "id": "villager_warship:villager_warship",
+      "required": false
+    },
+    {
+      "id": "towns_and_towers:exclusives/pillager_outpost_classic",
+      "required": false
+    },
+    {
+      "id": "towns_and_towers:exclusives/pillager_outpost_rustic",
+      "required": false
+    },
+    {
+      "id": "towns_and_towers:exclusives/pillager_outpost_tudor",
+      "required": false
+    },
+    {
+      "id": "towns_and_towers:exclusives/pillager_outpost_swedish",
+      "required": false
+    },
+    {
+      "id": "towns_and_towers:exclusives/pillager_outpost_iberian",
+      "required": false
+    },
+    {
+      "id": "towns_and_towers:exclusives/pillager_outpost_mediterranean",
+      "required": false
+    },
+    {
+      "id": "towns_and_towers:exclusives/pillager_outpost_oriental",
+      "required": false
+    }
+  ]
+}

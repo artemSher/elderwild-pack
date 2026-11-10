@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "towns_and_towers:village_swamp",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000016,
+    "biome_tag": "towns_and_towers:has_structure/village_swamp_boat",
+    "search_radius": 12
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "clan": 3,
+  "tier": 2,
+  "type": "clear",
+  "rep": 8,
+  "name": "Головы разбойников",
+  "desc": "Пиллагеры осмелели. Принеси счёт: 5 голов у отмеченной точки.",
+  "params": {
+    "mob": "minecraft:pillager",
+    "count": 5,
+    "radius": 48,
+    "rewards": [
+      {
+        "item": "minecraft:arrow",
+        "count": 32
+      },
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 2
+      }
+    ]
+  }
+}

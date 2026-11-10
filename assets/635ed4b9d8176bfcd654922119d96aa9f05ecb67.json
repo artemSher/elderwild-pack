@@ -1,0 +1,5 @@
+{
+  "_comment": "Clanlands: глушит автогенерацию замков Locks Reforged — замки ставит LockPlacer только на сундуки деревень кланов.",
+  "feature": {"type": "minecraft:no_op", "config": {}},
+  "placement": []
+}

@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:dragon_head"
+    },
+    "title": {
+      "translate": "deeds.clanlands.dragon_tower"
+    },
+    "description": {
+      "translate": "deeds.clanlands.dragon_tower.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "visit": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "location": {
+          "structure": "block_factorys_bosses:dragon_tower"
+        }
+      }
+    }
+  },
+  "parent": "clanlands:deeds/trials/root",
+  "rewards": {
+    "experience": 50
+  }
+}

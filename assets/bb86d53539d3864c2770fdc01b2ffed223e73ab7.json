@@ -1,0 +1,34 @@
+{
+  "id": "clanlands:blade_a6",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.attack_speed",
+      "id": "f4f79c95-c815-560d-95a6-6faf13393470",
+      "name": "Skill",
+      "amount": 0.03,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:blade_a5",
+    "clanlands:blade_camp"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/glove_diamond.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "positionX": -307.331,
+  "positionY": -53.778,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

@@ -1,0 +1,49 @@
+{
+  "id": "clanlands:blade_camp",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.attack_damage",
+      "id": "ebd5fcd8-d9ec-55f3-ba1b-bb2e1d7abbdd",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:crit_chance",
+      "id": "cbc08026-d338-5846-8e40-891a48ab81ec",
+      "name": "Skill",
+      "amount": 0.02,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:blade_a6",
+    "clanlands:blade_t1",
+    "clanlands:blade_u1"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/sword_gold.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "positionX": -360.657,
+  "positionY": -50.827,
+  "buttonSize": 24,
+  "isStartingPoint": false
+}

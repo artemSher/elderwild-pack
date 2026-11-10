@@ -1,0 +1,35 @@
+{
+  "id": "clanlands:tough_a3",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.knockback_resistance",
+      "id": "e3d7e7d7-bcef-5348-acd0-d6292933e308",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:tough_a2",
+    "clanlands:tough_a4",
+    "clanlands:tough_l1"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/boots_bronze.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "positionX": -110.487,
+  "positionY": -110.13,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

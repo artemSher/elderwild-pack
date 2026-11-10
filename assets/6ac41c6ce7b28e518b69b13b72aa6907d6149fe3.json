@@ -1,0 +1,63 @@
+{
+  "id": "clanlands:tough_camp",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.armor",
+      "id": "10d2123c-feb9-5616-a7c4-f504eefedfdc",
+      "name": "Skill",
+      "amount": 1.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.armor_toughness",
+      "id": "b4cec2b3-41ed-5ec4-bf2a-83b65c290063",
+      "name": "Skill",
+      "amount": 0.5,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:healing_received",
+      "id": "434a63fd-f023-55f7-8fd8-21000138398a",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:tough_a6",
+    "clanlands:tough_t1",
+    "clanlands:tough_u1"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/chestplate_fur.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "positionX": -266.357,
+  "positionY": -248.416,
+  "buttonSize": 24,
+  "isStartingPoint": false
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clanlands:tough_a4",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "75966b44-4f7e-5da7-9c45-a359daf684d2",
+      "name": "Skill",
+      "amount": 2.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:cross_0",
+    "clanlands:cross_1",
+    "clanlands:tough_a3",
+    "clanlands:tough_a5"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/heart_cyan.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "positionX": -156.143,
+  "positionY": -138.014,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

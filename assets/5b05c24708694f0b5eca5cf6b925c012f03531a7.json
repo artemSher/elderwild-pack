@@ -1,0 +1,47 @@
+{
+  "id": "clanlands:deft_key2",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:dodge_chance",
+      "id": "fa8efc38-d623-5dde-9f40-a0002cbe82b4",
+      "name": "Skill",
+      "amount": 0.06,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "id": "0a00e52f-4a24-5530-8ca3-e5ed3117387b",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:deft_u2"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/eye_green.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "positionX": -203.536,
+  "positionY": -303.217,
+  "buttonSize": 32,
+  "isStartingPoint": false
+}

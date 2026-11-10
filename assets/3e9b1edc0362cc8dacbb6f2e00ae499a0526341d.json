@@ -1,0 +1,17 @@
+{
+  "clan": 2,
+  "tier": 3,
+  "type": "deliver",
+  "rep": 12,
+  "name": "Ложная грамота",
+  "desc": "Хранителям нужен документ, которого не было — отнеси его старосте союзного поселения. Мелкий чиновник поверит, правитель — никогда.",
+  "params": {
+    "target": "ally",
+    "forged": true,
+    "expiryDays": 4,
+    "rewards": [
+      {"item": "minecraft:book", "count": 8},
+      {"item": "minecraft:gold_ingot", "count": 5}
+    ]
+  }
+}

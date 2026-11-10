@@ -1,0 +1,47 @@
+{
+  "id": "clanlands:craft_key2",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.luck",
+      "id": "a935d936-732a-55a8-8266-2a8a14a5041c",
+      "name": "Skill",
+      "amount": 2.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:experience_gained",
+      "id": "398c3374-5042-5f3c-8265-0350dedb97c5",
+      "name": "Skill",
+      "amount": 0.15,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:craft_u2"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/treasure_chest_gold.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "positionX": 363.095,
+  "positionY": -39.105,
+  "buttonSize": 32,
+  "isStartingPoint": false
+}

@@ -1,0 +1,17 @@
+place structure dungeons_and_combat:ancient_tree -2500 250 -2500
+place structure dungeons_and_combat:blazing_fortress -2250 250 -2500
+place structure dungeons_and_combat:echoing_ruins -2000 250 -2500
+place structure dungeons_and_combat:ernos_cave -1750 250 -2500
+place structure dungeons_and_combat:remanent_camp -1500 250 -2500
+place structure dungeons_and_combat:remanent_watch_tower -1250 250 -2500
+place structure dungeons_and_combat:tavern -1000 250 -2500
+place structure dungeons_and_combat:the_blacksmith_house -750 250 -2500
+place structure dungeons_and_combat:the_catacumbs_lugubrious -500 250 -2500
+place structure dungeons_and_combat:the_cathedral -250 250 -2500
+place structure dungeons_and_combat:the_church 0 250 -2500
+place structure dungeons_and_combat:the_field_of_the_fallen 250 250 -2500
+place structure dungeons_and_combat:the_forgotten_sands 500 250 -2500
+place structure dungeons_and_combat:the_pantheon_of_sunleia 750 250 -2500
+place structure dungeons_and_combat:the_ruins_of_kamath 1000 250 -2500
+place structure dungeons_and_combat:the_tower_of_eldrich 1250 250 -2500
+place structure dungeons_and_combat:witch_hermit_house 1500 250 -2500

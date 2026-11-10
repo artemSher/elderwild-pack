@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "towns_and_towers:exclusives/village_rustic",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000023,
+    "biome_tag": "towns_and_towers:has_structure/exclusives/village_rustic",
+    "search_radius": 12
+  }
+}

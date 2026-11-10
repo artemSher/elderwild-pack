@@ -1,0 +1,49 @@
+{
+  "id": "clanlands:mystic_camp",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:spell_power",
+      "id": "38978e27-cf8c-5d50-b7ee-8858c2fa1cd1",
+      "name": "Skill",
+      "amount": 0.06,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:cooldown_reduction",
+      "id": "b47d354f-02a7-5e36-89ce-ae90843a5e6e",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:mystic_a6",
+    "clanlands:mystic_t1",
+    "clanlands:mystic_u1"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/potion_double.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "positionX": 165.485,
+  "positionY": -324.456,
+  "buttonSize": 24,
+  "isStartingPoint": false
+}

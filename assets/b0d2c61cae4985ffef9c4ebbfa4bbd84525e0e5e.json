@@ -1,0 +1,47 @@
+{
+  "id": "clanlands:wander_key",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "id": "a65f038c-7e73-5685-add5-aa10b868aa72",
+      "name": "Skill",
+      "amount": 0.1,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:dodge_chance",
+      "id": "deb49c71-f885-5909-a3fe-e4948b440c98",
+      "name": "Skill",
+      "amount": 0.04,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:wander_t2"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/boots_gold.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "positionX": 506.325,
+  "positionY": 4.644,
+  "buttonSize": 32,
+  "isStartingPoint": false
+}

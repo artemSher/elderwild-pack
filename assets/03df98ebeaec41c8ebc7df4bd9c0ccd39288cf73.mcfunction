@@ -1,0 +1,16 @@
+place structure twilightforest:aurora_palace -2500 250 -2500
+place structure twilightforest:final_castle -2250 250 -2500
+place structure twilightforest:fox_tower -2000 250 -2500
+place structure twilightforest:hedge_maze -1750 250 -2500
+place structure twilightforest:hydra_lair -1500 250 -2500
+place structure twilightforest:knight_stronghold -1250 250 -2500
+place structure twilightforest:labyrinth -1000 250 -2500
+place structure twilightforest:large_hollow_hill -750 250 -2500
+place structure twilightforest:lich_tower -500 250 -2500
+place structure twilightforest:medium_hollow_hill -250 250 -2500
+place structure twilightforest:mushroom_tower 0 250 -2500
+place structure twilightforest:naga_courtyard 250 250 -2500
+place structure twilightforest:quest_grove 500 250 -2500
+place structure twilightforest:small_hollow_hill 750 250 -2500
+place structure twilightforest:troll_cave 1000 250 -2500
+place structure twilightforest:yeti_cave 1250 250 -2500

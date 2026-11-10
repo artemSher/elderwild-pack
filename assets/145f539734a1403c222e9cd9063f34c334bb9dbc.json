@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "towns_and_towers:village_old_growth_taiga",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000010,
+    "biome_tag": "towns_and_towers:has_structure/village_old_growth_taiga_polish",
+    "search_radius": 12
+  }
+}

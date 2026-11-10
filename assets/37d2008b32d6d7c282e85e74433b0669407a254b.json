@@ -1,0 +1,22 @@
+{
+  "clan": 1,
+  "tier": 3,
+  "type": "patrol",
+  "rep": 15,
+  "name": "Караванная разведка",
+  "desc": "Проверь подступы к вражьим землям — дойди до точки у их границ.",
+  "params": {
+    "target": "hostile",
+    "radius": 24,
+    "rewards": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:lapis_lazuli",
+        "count": 8
+      }
+    ]
+  }
+}

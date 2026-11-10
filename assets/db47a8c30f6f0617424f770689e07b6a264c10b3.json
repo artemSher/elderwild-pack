@@ -1,0 +1,61 @@
+{
+  "id": "clanlands:tough_key",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.armor",
+      "id": "9ddde923-0f2f-59b9-90a8-51040a4c4251",
+      "name": "Skill",
+      "amount": 4.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "8c39efb5-de53-5c80-bd0a-2b588e6d8aa8",
+      "name": "Skill",
+      "amount": 6.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "id": "9b0029cc-f611-5bd6-bd65-6f1150718fb6",
+      "name": "Skill",
+      "amount": -0.03,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:tough_t2"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/chestplate_fur.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "positionX": -390.808,
+  "positionY": -321.955,
+  "buttonSize": 32,
+  "isStartingPoint": false
+}

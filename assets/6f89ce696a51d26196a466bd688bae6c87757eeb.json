@@ -1,0 +1,22 @@
+{
+  "clan": 3,
+  "tier": 3,
+  "type": "patrol",
+  "rep": 15,
+  "name": "Рейд на пороге",
+  "desc": "Покажи силу у границ врага — пройди патрулём до отмеченной точки.",
+  "params": {
+    "target": "hostile",
+    "radius": 24,
+    "rewards": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 4
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 1
+      }
+    ]
+  }
+}

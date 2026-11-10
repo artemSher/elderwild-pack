@@ -1,0 +1,16 @@
+{
+  "clan": 1,
+  "tier": 2,
+  "type": "deliver",
+  "rep": 8,
+  "name": "Караванный счёт",
+  "desc": "Доставь расписку в соседнее поселение союза — там ждёт староста.",
+  "params": {
+    "rewards": [
+      {
+        "item": "minecraft:emerald",
+        "count": 4
+      }
+    ]
+  }
+}

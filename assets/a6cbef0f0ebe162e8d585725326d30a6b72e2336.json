@@ -1,0 +1,18 @@
+{
+  "clan": 2,
+  "tier": 2,
+  "type": "fetch",
+  "rep": 8,
+  "name": "Из архивов",
+  "desc": "Хранителям нужны записи: принеси 3 книги.",
+  "params": {
+    "item": "minecraft:book",
+    "count": 3,
+    "rewards": [
+      {
+        "item": "minecraft:book",
+        "count": 4
+      }
+    ]
+  }
+}

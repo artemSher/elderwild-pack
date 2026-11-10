@@ -1,0 +1,61 @@
+{
+  "id": "clanlands:blade_key2",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:life_steal",
+      "id": "b067315f-8cad-52b2-8bfe-cf034149d401",
+      "name": "Skill",
+      "amount": 0.02,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:crit_damage",
+      "id": "0c45dc65-cac0-5530-8695-4346d8c5dbd9",
+      "name": "Skill",
+      "amount": 0.1,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "7625e1d0-de53-5c96-9795-b8d182d7034a",
+      "name": "Skill",
+      "amount": -2.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:blade_u2"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/heart_red.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "positionX": -354.599,
+  "positionY": 87.333,
+  "buttonSize": 32,
+  "isStartingPoint": false
+}

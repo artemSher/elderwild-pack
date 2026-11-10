@@ -1,0 +1,14 @@
+place structure blue_skies:everbright_blinding_dungeon -2500 250 -2500
+place structure blue_skies:everdawn_blinding_dungeon -2250 250 -2500
+place structure blue_skies:frozen_bunker -2000 250 -2500
+place structure blue_skies:gatekeeper_house_mountain -1750 250 -2500
+place structure blue_skies:gatekeeper_house_plains -1500 250 -2500
+place structure blue_skies:gatekeeper_house_snowy -1250 250 -2500
+place structure blue_skies:nature_dungeon -1000 250 -2500
+place structure blue_skies:poison_dungeon -750 250 -2500
+place structure blue_skies:village_brightlands -500 250 -2500
+place structure blue_skies:village_calming_skies -250 250 -2500
+place structure blue_skies:village_crystal_dunes 0 250 -2500
+place structure blue_skies:village_shaded_woodlands 250 250 -2500
+place structure blue_skies:village_slushlands 500 250 -2500
+place structure blue_skies:village_sunset_maple_forest 750 250 -2500

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "minecraft:village_savanna",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000034,
+    "biome_tag": "minecraft:has_structure/village_savanna",
+    "search_radius": 12
+  }
+}

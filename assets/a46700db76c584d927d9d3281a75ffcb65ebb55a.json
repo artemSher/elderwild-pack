@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "biomeswevegone:village/salem",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000029,
+    "biome_tag": "biomeswevegone:has_structure/village_salem",
+    "search_radius": 12
+  }
+}

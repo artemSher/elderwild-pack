@@ -1,0 +1,23 @@
+{
+  "clan": 0,
+  "tier": 3,
+  "type": "deliver",
+  "rep": 10,
+  "name": "Тёмный груз",
+  "desc": "Кто-то во вражеских землях ждёт этот пакет — стража на границе не в курсе. Проскользни к старосте указанного поселения, не светись.",
+  "params": {
+    "target": "hostile",
+    "contraband": true,
+    "expiryDays": 5,
+    "rewards": [
+      {
+        "item": "minecraft:gold_ingot",
+        "count": 10
+      },
+      {
+        "item": "minecraft:golden_apple",
+        "count": 2
+      }
+    ]
+  }
+}

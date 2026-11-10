@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "towns_and_towers:exclusives/village_wandering_trader_camp",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000021,
+    "biome_tag": "towns_and_towers:has_structure/exclusives/village_oriental",
+    "search_radius": 12
+  }
+}

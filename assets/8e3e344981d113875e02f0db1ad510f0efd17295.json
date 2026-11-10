@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "biomeswevegone:village/forgotten",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000027,
+    "biome_tag": "biomeswevegone:has_structure/village_forgotten",
+    "search_radius": 12
+  }
+}

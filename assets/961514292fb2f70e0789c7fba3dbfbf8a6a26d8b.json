@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "towns_and_towers:village_sparse_jungle",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000015,
+    "biome_tag": "towns_and_towers:has_structure/village_sparse_jungle_polynesian",
+    "search_radius": 12
+  }
+}

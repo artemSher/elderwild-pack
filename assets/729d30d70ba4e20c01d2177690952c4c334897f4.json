@@ -1,0 +1,47 @@
+{
+  "id": "clanlands:mystic_key2",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:spell_resist",
+      "id": "b2ed0609-af74-5d63-8a5f-8942dc3ec475",
+      "name": "Skill",
+      "amount": 0.08,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:max_mana",
+      "id": "de8436f9-097a-5029-ab50-cc96ab6d7b3a",
+      "name": "Skill",
+      "amount": 40.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:mystic_u2"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/void.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "positionX": 275.118,
+  "positionY": -240.161,
+  "buttonSize": 32,
+  "isStartingPoint": false
+}

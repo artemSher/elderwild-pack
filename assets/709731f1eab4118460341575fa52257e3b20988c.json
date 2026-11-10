@@ -1,0 +1,22 @@
+{
+  "clan": 3,
+  "tier": 3,
+  "type": "fetch",
+  "rep": 15,
+  "name": "Сталь для войны",
+  "desc": "Кузни Легиона не спят. Двадцать четыре железных слитка — маркиз платит за металл, не за отговорки.",
+  "params": {
+    "item": "minecraft:iron_ingot",
+    "count": 24,
+    "rewards": [
+      {
+        "item": "minecraft:diamond",
+        "count": 3
+      },
+      {
+        "item": "minecraft:shield",
+        "count": 1
+      }
+    ]
+  }
+}

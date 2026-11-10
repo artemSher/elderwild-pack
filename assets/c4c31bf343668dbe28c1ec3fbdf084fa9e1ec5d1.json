@@ -1,0 +1,23 @@
+{
+  "clan": 0,
+  "tier": 2,
+  "type": "clear",
+  "rep": 8,
+  "name": "Нечисть у святыни",
+  "desc": "Мертвецы всполошились у старой капеллы. Прогони их прочь — восемь гнилых голов в уплату.",
+  "params": {
+    "mob": "minecraft:zombie",
+    "count": 8,
+    "radius": 48,
+    "rewards": [
+      {
+        "item": "minecraft:gold_ingot",
+        "count": 3
+      },
+      {
+        "item": "minecraft:candle",
+        "count": 4
+      }
+    ]
+  }
+}

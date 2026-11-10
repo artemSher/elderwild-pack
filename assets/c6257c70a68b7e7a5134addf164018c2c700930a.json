@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bundle"
+    },
+    "title": {
+      "translate": "deeds.clanlands.parcel"
+    },
+    "description": {
+      "translate": "deeds.clanlands.parcel.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "granted": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "clanlands:deeds/shadow/root",
+  "rewards": {
+    "experience": 10
+  }
+}

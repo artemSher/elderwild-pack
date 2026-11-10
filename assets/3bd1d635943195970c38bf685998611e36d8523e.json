@@ -1,0 +1,22 @@
+{
+  "clan": 0,
+  "tier": 3,
+  "type": "fetch",
+  "rep": 15,
+  "name": "Золото для купола",
+  "desc": "Святыня ждёт новый купол. Принеси два блока чистого золота — Орден платит за веру, не за болтовню.",
+  "params": {
+    "item": "minecraft:gold_block",
+    "count": 2,
+    "rewards": [
+      {
+        "item": "minecraft:diamond",
+        "count": 3
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "count": 1
+      }
+    ]
+  }
+}

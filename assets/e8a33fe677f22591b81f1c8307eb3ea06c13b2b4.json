@@ -1,0 +1,17 @@
+{
+  "clan": 3,
+  "tier": 3,
+  "type": "deliver",
+  "rep": 10,
+  "name": "Шёлковый путь войны",
+  "desc": "Легион платит за доставку в тыл врага — контрабанда это тоже служба. Пронеси пакет к старосте вражеского поселения и уходи тихо.",
+  "params": {
+    "target": "hostile",
+    "contraband": true,
+    "expiryDays": 5,
+    "rewards": [
+      {"item": "minecraft:netherite_scrap", "count": 1},
+      {"item": "minecraft:iron_ingot", "count": 10}
+    ]
+  }
+}

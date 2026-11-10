@@ -1,0 +1,47 @@
+{
+  "id": "clanlands:mystic_key",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:spell_power",
+      "id": "221c762c-0538-5210-bc3f-f11e0b399af2",
+      "name": "Skill",
+      "amount": 0.12,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:cooldown_reduction",
+      "id": "ee2c857d-6862-535f-b0e7-ad42154619a3",
+      "name": "Skill",
+      "amount": 0.1,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:mystic_t2"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/potion_black_big.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "positionX": 257.332,
+  "positionY": -436.081,
+  "buttonSize": 32,
+  "isStartingPoint": false
+}

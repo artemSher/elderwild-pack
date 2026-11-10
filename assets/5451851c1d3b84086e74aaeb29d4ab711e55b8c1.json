@@ -1,0 +1,17 @@
+{
+  "clan": 0,
+  "tier": 3,
+  "type": "deliver",
+  "rep": 12,
+  "name": "Чужая печать",
+  "desc": "Отнеси поддельную грамоту в указанное поселение союзника — староста не разберёт печати. Не суйся к правителям: они знают каждый росчерк.",
+  "params": {
+    "target": "ally",
+    "forged": true,
+    "expiryDays": 4,
+    "rewards": [
+      {"item": "minecraft:gold_ingot", "count": 8},
+      {"item": "minecraft:emerald", "count": 4}
+    ]
+  }
+}

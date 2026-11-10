@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#medieval_buildings:has_structure/fort",
+    "#clanlands:center_fallback"
+  ]
+}

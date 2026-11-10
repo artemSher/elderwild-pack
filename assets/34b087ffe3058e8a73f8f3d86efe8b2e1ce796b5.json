@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:dark_forest",
+    "#minecraft:is_taiga",
+    "#forge:is_swamp",
+    "#forge:is_spooky",
+    "#forge:is_coniferous",
+    "#forge:is_magical",
+    "vampirism:vampire_forest"
+  ]
+}

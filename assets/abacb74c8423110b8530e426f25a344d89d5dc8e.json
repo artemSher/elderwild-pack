@@ -1,0 +1,21 @@
+{
+  "clan": 1,
+  "tier": 3,
+  "type": "patrol",
+  "rep": 15,
+  "name": "Тихая полоса",
+  "desc": "Проверь торговый тракт у дальних земель — дойди до отмеченной точки.",
+  "params": {
+    "radius": 24,
+    "rewards": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:lapis_lazuli",
+        "count": 8
+      }
+    ]
+  }
+}

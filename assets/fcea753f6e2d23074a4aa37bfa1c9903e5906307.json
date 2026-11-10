@@ -1,0 +1,21 @@
+{
+  "clan": 1,
+  "tier": 3,
+  "type": "deliver",
+  "rep": 15,
+  "name": "Союзный договор",
+  "desc": "Доставь копию договора в поселение союзного клана — подпись должна дойти.",
+  "params": {
+    "target": "ally",
+    "rewards": [
+      {
+        "item": "minecraft:emerald",
+        "count": 6
+      },
+      {
+        "item": "minecraft:lapis_lazuli",
+        "count": 8
+      }
+    ]
+  }
+}

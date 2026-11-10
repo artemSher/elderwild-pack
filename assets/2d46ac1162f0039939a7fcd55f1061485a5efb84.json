@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ocean_lily_pad_village:fletcherhouse",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 110,
+    "separation": 35,
+    "salt": 65887352
+  }
+}

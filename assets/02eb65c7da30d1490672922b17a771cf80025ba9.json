@@ -1,0 +1,21 @@
+{
+  "clan": 3,
+  "tier": 3,
+  "type": "deliver",
+  "rep": 15,
+  "name": "Военный курьер",
+  "desc": "Отнеси приказ в поселение союзного клана — доставка под личной ответственностью.",
+  "params": {
+    "target": "ally",
+    "rewards": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 4
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 1
+      }
+    ]
+  }
+}

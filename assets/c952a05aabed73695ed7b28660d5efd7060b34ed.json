@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "biomeswevegone:village/skyris",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000028,
+    "biome_tag": "biomeswevegone:has_structure/village_skyris",
+    "search_radius": 12
+  }
+}

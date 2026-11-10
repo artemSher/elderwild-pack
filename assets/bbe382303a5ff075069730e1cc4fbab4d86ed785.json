@@ -1,0 +1,36 @@
+{
+  "id": "clanlands:deft_a4",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:dodge_chance",
+      "id": "3d8bc3c5-294e-540e-bf9f-9d6a3e941b64",
+      "name": "Skill",
+      "amount": 0.02,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:cross_1",
+    "clanlands:cross_2",
+    "clanlands:deft_a3",
+    "clanlands:deft_a5"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/arrow_emerald.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "positionX": -48.806,
+  "positionY": -202.599,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

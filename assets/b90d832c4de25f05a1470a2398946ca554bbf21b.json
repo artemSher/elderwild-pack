@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "towns_and_towers:exclusives/pillager_outpost_classic", "required": false },
+    { "id": "towns_and_towers:exclusives/pillager_outpost_iberian", "required": false },
+    { "id": "towns_and_towers:exclusives/pillager_outpost_mediterranean", "required": false },
+    { "id": "towns_and_towers:exclusives/pillager_outpost_oriental", "required": false },
+    { "id": "towns_and_towers:exclusives/pillager_outpost_rustic", "required": false },
+    { "id": "towns_and_towers:exclusives/pillager_outpost_swedish", "required": false },
+    { "id": "towns_and_towers:exclusives/pillager_outpost_tudor", "required": false },
+    { "id": "medieval_buildings:tower", "required": false }
+  ]
+}

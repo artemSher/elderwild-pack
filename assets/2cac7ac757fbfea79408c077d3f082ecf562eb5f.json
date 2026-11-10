@@ -1,0 +1,21 @@
+{
+  "clan": 0,
+  "tier": 3,
+  "type": "deliver",
+  "rep": 15,
+  "name": "Рука союзу",
+  "desc": "Отнеси письмо в поселение союзного клана — староста узнает нашу печать.",
+  "params": {
+    "target": "ally",
+    "rewards": [
+      {
+        "item": "minecraft:gold_ingot",
+        "count": 3
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "count": 1
+      }
+    ]
+  }
+}

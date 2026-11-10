@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:map"
+    },
+    "title": {
+      "translate": "deeds.clanlands.job_done"
+    },
+    "description": {
+      "translate": "deeds.clanlands.job_done.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "granted": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "clanlands:deeds/shadow/root",
+  "rewards": {
+    "experience": 15
+  }
+}

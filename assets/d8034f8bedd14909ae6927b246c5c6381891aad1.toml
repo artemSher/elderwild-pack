@@ -1,0 +1,21 @@
+
+#Cataclysm Structures Spawn Control
+#Set to false to disable structure generation
+[structures]
+	#Enable Soul Black Smith structure spawn
+	soul_black_smith = true
+	#Enable Ruined Citadel structure spawn
+	ruined_citadel = true
+	#Enable Burning Arena structure spawn
+	burning_arena = true
+	#Enable Ancient Factory structure spawn
+	ancient_factory = true
+	#Enable Cursed Pyramid structure spawn
+	cursed_pyramid = true
+	#Enable Sunken City structure spawn
+	sunken_city = true
+	#Enable Frosted Prison structure spawn
+	frosted_prison = true
+	#Enable Acropolis structure spawn
+	acropolis = true
+

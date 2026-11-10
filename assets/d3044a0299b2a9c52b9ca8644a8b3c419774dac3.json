@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "title": {
+      "translate": "deeds.clanlands.provoked"
+    },
+    "description": {
+      "translate": "deeds.clanlands.provoked.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "granted": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "clanlands:deeds/intrigue/root",
+  "rewards": {
+    "experience": 20
+  }
+}

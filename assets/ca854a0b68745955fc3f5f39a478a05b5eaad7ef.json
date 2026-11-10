@@ -1,0 +1,21 @@
+{
+  "clan": 2,
+  "tier": 2,
+  "type": "patrol",
+  "rep": 8,
+  "name": "Обход рубежей",
+  "desc": "Хранители держат глаз на тихих землях — дойди до отмеченной точки и вернись с докладом.",
+  "params": {
+    "radius": 24,
+    "rewards": [
+      {
+        "item": "minecraft:emerald",
+        "count": 4
+      },
+      {
+        "item": "minecraft:book",
+        "count": 3
+      }
+    ]
+  }
+}

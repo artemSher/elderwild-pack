@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "towns_and_towers:exclusives/village_tudor",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000020,
+    "biome_tag": "towns_and_towers:has_structure/exclusives/village_tudor",
+    "search_radius": 12
+  }
+}

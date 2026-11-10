@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "ancientvillages:ruined_village", "required": false },
+    { "id": "ancientvillages:silent_cemetery", "required": false },
+    { "id": "ancientvillages:lost_forge", "required": false }
+  ]
+}

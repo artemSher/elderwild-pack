@@ -1,0 +1,17 @@
+{
+  "clan": 3,
+  "tier": 3,
+  "type": "deliver",
+  "rep": 12,
+  "name": "Фальшивый приказ",
+  "desc": "Поддельный приказ отведёт союзный гарнизон с позиции — вручи старосте, тот исполнит не читая. К правителям не ходи: военные печати они различают.",
+  "params": {
+    "target": "ally",
+    "forged": true,
+    "expiryDays": 4,
+    "rewards": [
+      {"item": "minecraft:iron_ingot", "count": 12},
+      {"item": "minecraft:diamond", "count": 2}
+    ]
+  }
+}

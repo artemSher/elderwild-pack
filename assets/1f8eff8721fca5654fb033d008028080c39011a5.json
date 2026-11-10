@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "minecraft:village_taiga",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000036,
+    "biome_tag": "minecraft:has_structure/village_taiga",
+    "search_radius": 12
+  }
+}

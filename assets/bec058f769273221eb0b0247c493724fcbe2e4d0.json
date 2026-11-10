@@ -1,0 +1,34 @@
+{
+  "id": "clanlands:deft_a2",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:arrow_damage",
+      "id": "d58d79b6-8ea9-55b3-8c38-b9ae32a10e90",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:deft_a1",
+    "clanlands:deft_a3"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/bow_emerald.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "positionX": -5.217,
+  "positionY": -104.689,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

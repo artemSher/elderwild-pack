@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:brush"
+    },
+    "title": {
+      "translate": "deeds.clanlands.cleaned"
+    },
+    "description": {
+      "translate": "deeds.clanlands.cleaned.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "granted": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "clanlands:deeds/shadow/root",
+  "rewards": {
+    "experience": 10
+  }
+}

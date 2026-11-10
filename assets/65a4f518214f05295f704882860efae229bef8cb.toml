@@ -1,0 +1,22 @@
+[logbegone]
+	#Фразы/регэкспы, которые вырезаются из лога
+	phrases = [
+		"Could not resolve 'particle' material for model stack",
+		"Warnings for block model",
+		"Unused frames in sprite",
+		"does not exist, cannot add it to event",
+		"Image must use the 'full' layout",
+		"Unable to load model:",
+		"Failed to load model",
+		"Missing model for variant",
+		"Unable to load texture",
+		"Missing sound for event",
+		"Serializing bad class",
+		"Unsupported or missing sound",
+		"Could not determine mod trust worthiness",
+		"Attempted to select a dependency jar for JarJar",
+		"Received acknowledgment for login packet",
+		"Starting version check at",
+		"Found status:",
+		"Failed to process update information"
+	]

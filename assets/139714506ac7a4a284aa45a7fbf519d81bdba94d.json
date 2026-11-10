@@ -1,0 +1,55 @@
+{
+  "id": "clanlands:deft_key",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:arrow_damage",
+      "id": "ec3a79d6-1796-5d8a-a6d1-3ff159051cc6",
+      "name": "Skill",
+      "amount": 0.12,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:has_item_equipped",
+        "item_condition": {
+          "equipment_type": "BOW",
+          "type": "skilltree:equipment_type"
+        }
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:arrow_damage",
+      "id": "39b149e5-ac06-5b97-8826-8196e9e88d55",
+      "name": "Skill",
+      "amount": 0.12,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:has_item_equipped",
+        "item_condition": {
+          "equipment_type": "CROSSBOW",
+          "type": "skilltree:equipment_type"
+        }
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:deft_t2"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/bow_gold.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "positionX": -135.618,
+  "positionY": -487.846,
+  "buttonSize": 32,
+  "isStartingPoint": false
+}

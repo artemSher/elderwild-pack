@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:lead"
+    },
+    "title": {
+      "translate": "deeds.clanlands.escorted"
+    },
+    "description": {
+      "translate": "deeds.clanlands.escorted.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "granted": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "clanlands:deeds/roads/root",
+  "rewards": {
+    "experience": 20
+  }
+}

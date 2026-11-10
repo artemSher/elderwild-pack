@@ -1,0 +1,37 @@
+# Garden Trails configuration
+# Restart required after changes
+
+# Master toggle for chest loot injection
+generateChestLoot=true
+
+# Individual items (only if generateChestLoot=true)
+generateSilk=true
+generateGrapes=true
+generateMaize=true
+generateRice=true
+generateMulberry=true
+
+# Requires Dawn of Time - replaces white wool with silk in DoT recipes
+dawnOfTimeUseSilk=true
+
+# Requires Armor of the Ages - replaces string with silk in AotA recipes
+armorOfTheAgesUseSilk=true
+
+# Plant biome lists
+# Comma-separated biome IDs. Empty = plant does not spawn.
+# Use full biome IDs: namespace:biome_name (e.g., minecraft:forest, byg:jacaranda_forest)
+# IDs for biomes from mods that are not installed are ignored automatically.
+
+boxwood_bush_biomes=minecraft:forest,minecraft:birch_forest,minecraft:old_growth_birch_forest,minecraft:windswept_forest
+camellia_biomes=minecraft:jungle,minecraft:sparse_jungle,minecraft:bamboo_jungle,minecraft:savanna,minecraft:taiga
+commelina_biomes=minecraft:swamp,minecraft:mangrove_swamp,minecraft:flower_forest
+cypress_biomes=minecraft:savanna,minecraft:savanna_plateau,minecraft:windswept_savanna
+geranium_pink_biomes=minecraft:flower_forest,minecraft:meadow,minecraft:birch_forest,minecraft:old_growth_birch_forest
+ivy_biomes=minecraft:forest,minecraft:birch_forest,minecraft:old_growth_birch_forest,minecraft:dark_forest
+mulberry_biomes=minecraft:taiga,minecraft:old_growth_pine_taiga,minecraft:old_growth_spruce_taiga
+red_maple_biomes=minecraft:birch_forest,minecraft:old_growth_birch_forest,minecraft:dark_forest
+orange_maple_biomes=minecraft:birch_forest,minecraft:old_growth_birch_forest,minecraft:dark_forest
+green_maple_biomes=minecraft:birch_forest,minecraft:old_growth_birch_forest,minecraft:dark_forest
+rice_biomes=minecraft:swamp,minecraft:mangrove_swamp
+wild_grape_biomes=minecraft:forest,minecraft:birch_forest,minecraft:dark_forest
+wild_maize_biomes=minecraft:savanna,minecraft:savanna_plateau,minecraft:windswept_savanna,minecraft:plains

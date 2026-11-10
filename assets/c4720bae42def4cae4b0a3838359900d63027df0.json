@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "minecraft:village_plains",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000032,
+    "biome_tag": "minecraft:has_structure/village_plains",
+    "search_radius": 12
+  }
+}

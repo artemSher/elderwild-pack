@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "towns_and_towers:village_savanna_plateau",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000012,
+    "biome_tag": "towns_and_towers:has_structure/village_savanna_plateau_ramshackled",
+    "search_radius": 12
+  }
+}

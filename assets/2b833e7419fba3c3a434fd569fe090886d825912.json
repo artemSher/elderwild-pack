@@ -1,0 +1,22 @@
+{
+  "clan": 3,
+  "tier": 3,
+  "type": "fetch",
+  "rep": 15,
+  "name": "Трофей",
+  "desc": "Принеси тотем бессмертия с добычи — трофей павшего культа докажет твою цену.",
+  "params": {
+    "item": "minecraft:totem_of_undying",
+    "count": 1,
+    "rewards": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 4
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 1
+      }
+    ]
+  }
+}

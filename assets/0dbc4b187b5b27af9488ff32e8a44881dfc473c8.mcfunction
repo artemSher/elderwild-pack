@@ -1,0 +1,13 @@
+place structure bettermineshafts:mineshaft_acacia -2500 250 -2500
+place structure bettermineshafts:mineshaft_desert -2250 250 -2500
+place structure bettermineshafts:mineshaft_dripstone -2000 250 -2500
+place structure bettermineshafts:mineshaft_ice -1750 250 -2500
+place structure bettermineshafts:mineshaft_jungle -1500 250 -2500
+place structure bettermineshafts:mineshaft_lush -1250 250 -2500
+place structure bettermineshafts:mineshaft_mesa -1000 250 -2500
+place structure bettermineshafts:mineshaft_mushroom -750 250 -2500
+place structure bettermineshafts:mineshaft_oak -500 250 -2500
+place structure bettermineshafts:mineshaft_overgrown -250 250 -2500
+place structure bettermineshafts:mineshaft_red_desert 0 250 -2500
+place structure bettermineshafts:mineshaft_spruce 250 250 -2500
+place structure bettermineshafts:mineshaft_spruce_snowy 500 250 -2500

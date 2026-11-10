@@ -1,0 +1,22 @@
+{
+  "clan": 0,
+  "tier": 3,
+  "type": "patrol",
+  "rep": 15,
+  "name": "Вдоль вражьей черты",
+  "desc": "Пройди патрулём у земель враждебного клана — враг должен видеть наши силы.",
+  "params": {
+    "target": "hostile",
+    "radius": 24,
+    "rewards": [
+      {
+        "item": "minecraft:gold_ingot",
+        "count": 3
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "count": 1
+      }
+    ]
+  }
+}

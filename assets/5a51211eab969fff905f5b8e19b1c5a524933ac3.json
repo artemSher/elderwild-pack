@@ -1,0 +1,22 @@
+{
+  "clan": 1,
+  "tier": 3,
+  "type": "fetch",
+  "rep": 15,
+  "name": "Камень для стен",
+  "desc": "Зиждители заложили стену, а кварца нет. Шестнадцать гладких блоков — и Союз запомнит твои руки.",
+  "params": {
+    "item": "minecraft:smooth_quartz",
+    "count": 16,
+    "rewards": [
+      {
+        "item": "minecraft:emerald",
+        "count": 10
+      },
+      {
+        "item": "minecraft:diamond",
+        "count": 2
+      }
+    ]
+  }
+}

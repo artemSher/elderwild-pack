@@ -1,0 +1,34 @@
+{
+  "id": "clanlands:craft_u2",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:experience_gained",
+      "id": "8ac2add0-a94b-55d7-979a-c29ca98a907e",
+      "name": "Skill",
+      "amount": 0.05,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:craft_key2",
+    "clanlands:craft_u1"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/soup_red.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "positionX": 354.255,
+  "positionY": -74.415,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "ocean_lily_pad_village:hay",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 110,
+    "separation": 36,
+    "salt": 2138954371
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "clan": 1,
+  "tier": 3,
+  "type": "deliver",
+  "rep": 12,
+  "name": "Подпись без подписи",
+  "desc": "Поддельный торговый ордер ждёт в поселении союзника — староста выдаст товар по бумаге, не глядя в печать. Правителей обходи: те смотрят.",
+  "params": {
+    "target": "ally",
+    "forged": true,
+    "expiryDays": 4,
+    "rewards": [
+      {"item": "minecraft:emerald", "count": 10},
+      {"item": "minecraft:lapis_lazuli", "count": 8}
+    ]
+  }
+}

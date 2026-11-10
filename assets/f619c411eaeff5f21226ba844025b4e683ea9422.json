@@ -1,0 +1,18 @@
+{
+  "clan": 0,
+  "tier": 2,
+  "type": "clear",
+  "rep": 8,
+  "name": "Точка сопротивления",
+  "desc": "В руинах у границ завелась нечисть. Зачисти место.",
+  "params": {
+    "count": 6,
+    "radius": 48,
+    "rewards": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 4
+      }
+    ]
+  }
+}

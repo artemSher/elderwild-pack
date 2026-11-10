@@ -1,0 +1,21 @@
+{
+  "clan": 3,
+  "tier": 2,
+  "type": "patrol",
+  "rep": 8,
+  "name": "Пост на краю",
+  "desc": "Заступи на пост у границы — дойди до точки и оглядись.",
+  "params": {
+    "radius": 24,
+    "rewards": [
+      {
+        "item": "minecraft:arrow",
+        "count": 32
+      },
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 2
+      }
+    ]
+  }
+}

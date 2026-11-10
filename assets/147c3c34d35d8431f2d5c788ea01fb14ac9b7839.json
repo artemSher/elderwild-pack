@@ -1,0 +1,1 @@
+{"type": "forge:conditional", "recipes": [{"conditions": [{"type": "forge:false"}], "recipe": {"type": "minecraft:crafting_shapeless", "category": "misc", "ingredients": [{"item": "minecraft:stone"}], "result": {"item": "minecraft:stone", "count": 1}}}]}

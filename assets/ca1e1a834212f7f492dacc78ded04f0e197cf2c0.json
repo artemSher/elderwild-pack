@@ -1,0 +1,35 @@
+{
+  "id": "clanlands:craft_a3",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:experience_gained",
+      "id": "ff0ca591-bf6d-59b2-b14c-43cc78585efc",
+      "name": "Skill",
+      "amount": 0.06,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:craft_a2",
+    "clanlands:craft_a4",
+    "clanlands:craft_l1"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/treasure_chest.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "positionX": 135.225,
+  "positionY": -77.783,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

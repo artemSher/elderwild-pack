@@ -1,0 +1,23 @@
+{
+  "clan": 3,
+  "tier": 2,
+  "type": "clear",
+  "rep": 8,
+  "name": "Строевой экзамен",
+  "desc": "Костяки мародёров учатся стрелять слишком близко к нашим дорогам. Шесть луков — в землю.",
+  "params": {
+    "mob": "minecraft:skeleton",
+    "count": 6,
+    "radius": 48,
+    "rewards": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 5
+      },
+      {
+        "item": "minecraft:arrow",
+        "count": 24
+      }
+    ]
+  }
+}

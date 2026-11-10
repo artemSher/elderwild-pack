@@ -1,0 +1,19 @@
+{
+  "clan": 0,
+  "tier": 2,
+  "type": "clear",
+  "rep": 8,
+  "name": "Чистая земля",
+  "desc": "Мертвецы поднимаются у наших рубежей. Перебей 8 зомби у отмеченной точки.",
+  "params": {
+    "mob": "minecraft:zombie",
+    "count": 8,
+    "radius": 48,
+    "rewards": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 4
+      }
+    ]
+  }
+}

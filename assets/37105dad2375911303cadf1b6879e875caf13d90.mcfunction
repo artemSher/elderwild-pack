@@ -1,0 +1,11 @@
+place structure biomeswevegone:abandoned_prairie_house -2500 250 -2500
+place structure biomeswevegone:aspen_manor_1 -2250 250 -2500
+place structure biomeswevegone:aspen_manor_2 -2000 250 -2500
+place structure biomeswevegone:dripstone_arch -1750 250 -2500
+place structure biomeswevegone:ironwood_gour_plateau -1500 250 -2500
+place structure biomeswevegone:large_cold_lake -1250 250 -2500
+place structure biomeswevegone:lush_arch -1000 250 -2500
+place structure biomeswevegone:prairie_house -750 250 -2500
+place structure biomeswevegone:red_rock_arch -500 250 -2500
+place structure biomeswevegone:rugged_fossil -250 250 -2500
+place structure biomeswevegone:sharpened_rock 0 250 -2500

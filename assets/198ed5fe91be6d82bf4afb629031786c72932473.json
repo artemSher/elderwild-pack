@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:chest"
+    },
+    "title": {
+      "translate": "deeds.clanlands.robbed"
+    },
+    "description": {
+      "translate": "deeds.clanlands.robbed.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "granted": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "clanlands:deeds/roads/root",
+  "rewards": {
+    "experience": 15
+  }
+}

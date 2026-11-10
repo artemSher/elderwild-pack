@@ -1,0 +1,81 @@
+{
+  "_comment": "Веса и пороги репутации кланов. Читается ReputationManager (SimpleJsonResourceReloadListener на data/<ns>/reputation/). /reload применяет без рестарта. Значения — решения из ДИАЛОГ_ИИ.md (ИИ 2, 01.10).",
+  "scale": {
+    "min": -50,
+    "max": 100,
+    "start": 0
+  },
+  "thresholds": {
+    "hostile": -25,
+    "trusted": 25,
+    "honored": 50,
+    "bounty": -40
+  },
+  "events": {
+    "raid_defense": 15,
+    "trade": 1,
+    "villager_kill": -10,
+    "guard_kill": -15,
+    "witnessed_theft": -5,
+    "ruler_strike": -10,
+    "renounce": -10,
+    "blab": -8,
+    "letter_sell": 6,
+    "forgery_detected": -12,
+    "favor_ransom": 16,
+    "favor_pass": 4,
+    "caravan_robbery": -8,
+    "tribute_paid": 12,
+    "claimant_win": 8,
+    "claimant_loss": -6,
+    "escort_pay": 4,
+    "escort_fail": 0,
+    "merc_win": 10,
+    "merc_loss": -6,
+    "mercenary_war": 8
+  },
+  "caps": {
+    "trade_per_day_per_village": 5
+  },
+  "decay": {
+    "negative_per_day": 1,
+    "positive_per_day": 1,
+    "friction_per_enemy": 1
+  },
+  "diffusion": {
+    "range": 150,
+    "hostile": 0.5,
+    "ally": 0.25,
+    "_comment": "знак по отношению к соседу: hostile −delta*0.5, ally +delta*0.25"
+  },
+  "spillover": {
+    "ally_pct": 25
+  },
+  "redemption": {
+    "days": 3,
+    "cooldown_days": 10,
+    "ban_days": 30,
+    "tiers": [
+      [
+        {
+          "item": "minecraft:gold_ingot",
+          "count": 8
+        },
+        {
+          "item": "minecraft:emerald",
+          "count": 4
+        }
+      ],
+      [
+        {
+          "item": "minecraft:diamond",
+          "count": 6
+        },
+        {
+          "item": "minecraft:netherite_scrap",
+          "count": 1
+        }
+      ]
+    ]
+  }
+}

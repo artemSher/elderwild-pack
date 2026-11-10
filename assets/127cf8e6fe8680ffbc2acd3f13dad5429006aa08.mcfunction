@@ -1,0 +1,9 @@
+place structure incendium:abandoned_tower -2500 250 -2500
+place structure incendium:forbidden_castle -2250 250 -2500
+place structure incendium:infernal_altar -2000 250 -2500
+place structure incendium:nether_reactor -1750 250 -2500
+place structure incendium:piglin_village -1500 250 -2500
+place structure incendium:pipeline -1250 250 -2500
+place structure incendium:quartz_kitchen -1000 250 -2500
+place structure incendium:ruined_lab -750 250 -2500
+place structure incendium:sanctum -500 250 -2500

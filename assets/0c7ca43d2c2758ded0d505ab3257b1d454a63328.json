@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "sher",
+      "uniqueId": "9970062f-0aa4-39e2-9d1a-136db5b6bc95"
+    },
+    "time": 1792438143643,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/UTvgkD3Kyi"
+    }
+  }
+]

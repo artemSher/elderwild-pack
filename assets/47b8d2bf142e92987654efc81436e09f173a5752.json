@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "biomeswevegone:village/pumpkin_patch",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000031,
+    "biome_tag": "biomeswevegone:has_structure/village_pumpkin_patch",
+    "search_radius": 12
+  }
+}

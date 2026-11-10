@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "clanlands:capital_0",
+    "clanlands:capital_1",
+    "clanlands:capital_2",
+    "clanlands:capital_3",
+    {
+      "id": "nova_structures:hamlet",
+      "required": false
+    },
+    {
+      "id": "nova_structures:village_jungle",
+      "required": false
+    },
+    {
+      "id": "nova_structures:village_swamp",
+      "required": false
+    },
+    {
+      "id": "terralith:fortified_village",
+      "required": false
+    },
+    {
+      "id": "terralith:fortified_desert_village",
+      "required": false
+    }
+  ]
+}

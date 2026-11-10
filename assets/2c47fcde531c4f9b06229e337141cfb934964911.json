@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "minecraft:village_desert",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000033,
+    "biome_tag": "minecraft:has_structure/village_desert",
+    "search_radius": 12
+  }
+}

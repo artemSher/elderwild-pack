@@ -1,0 +1,17 @@
+place structure roadweaver:bridge_bridge_0 -2500 250 -2500
+place structure roadweaver:bridge_bridge_1 -2250 250 -2500
+place structure roadweaver:roadside_bench -2000 250 -2500
+place structure roadweaver:roadside_campfire -1750 250 -2500
+place structure roadweaver:roadside_campsite_1 -1500 250 -2500
+place structure roadweaver:roadside_campsite_2 -1250 250 -2500
+place structure roadweaver:roadside_campsite_3 -1000 250 -2500
+place structure roadweaver:roadside_maid_house -750 250 -2500
+place structure roadweaver:roadside_sakura_coffee_house -500 250 -2500
+place structure roadweaver:spawn_cabin -250 250 -2500
+place structure roadweaver:stone_bridge_shiqiao 0 250 -2500
+place structure roadweaver:wood_bridge_hongshu 250 250 -2500
+place structure roadweaver:wood_bridge_huamu 500 250 -2500
+place structure roadweaver:wood_bridge_jinhehuan 750 250 -2500
+place structure roadweaver:wood_bridge_shensexiangmu 1000 250 -2500
+place structure roadweaver:wood_bridge_yinghuamu 1250 250 -2500
+place structure roadweaver:wood_bridge_zhuzi 1500 250 -2500

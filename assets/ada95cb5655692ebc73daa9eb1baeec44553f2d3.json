@@ -1,0 +1,22 @@
+{
+  "structures": [
+    {
+      "structure": "towns_and_towers:exclusives/village_classic",
+      "weight": 2
+    },
+    {
+      "structure": "towns_and_towers:exclusives/village_rustic",
+      "weight": 2
+    },
+    {
+      "structure": "towns_and_towers:exclusives/village_tudor",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000037,
+    "biome_tag": "clanlands:center_fallback",
+    "search_radius": 12
+  }
+}

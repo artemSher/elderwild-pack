@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:ender_eye"
+    },
+    "title": {
+      "translate": "deeds.clanlands.ender_dragon"
+    },
+    "description": {
+      "translate": "deeds.clanlands.ender_dragon.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "kill": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:ender_dragon"
+        }
+      }
+    }
+  },
+  "parent": "clanlands:deeds/trials/root",
+  "rewards": {
+    "experience": 40
+  }
+}

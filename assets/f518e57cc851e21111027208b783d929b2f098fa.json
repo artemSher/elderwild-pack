@@ -1,0 +1,34 @@
+{
+  "id": "clanlands:mystic_a6",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "irons_spellbooks:max_mana",
+      "id": "012b9f0d-5108-5c1f-a33e-f1bc3aa756d8",
+      "name": "Skill",
+      "amount": 15.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:mystic_a5",
+    "clanlands:mystic_camp"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/lesser.png",
+  "iconTexture": "skilltree:textures/icons/potion_blue_big.png",
+  "borderTexture": "skilltree:textures/tooltip/lesser.png",
+  "positionX": 132.449,
+  "positionY": -282.492,
+  "buttonSize": 16,
+  "isStartingPoint": false
+}

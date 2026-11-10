@@ -1,0 +1,12 @@
+{
+  "pairs": {
+    "0-2": "ally",
+    "0-3": "hostile"
+  },
+  "identity": {
+    "0": {"rep_mult": {"clear": 1.5}},
+    "1": {"rep_mult": {"trade": 1.5, "deliver": 1.5}},
+    "2": {"rep_mult": {"fetch": 1.5}, "suspicious_look": false},
+    "3": {"rep_mult": {"patrol": 1.5, "clear": 1.5}, "aggro_below_zero": true}
+  }
+}

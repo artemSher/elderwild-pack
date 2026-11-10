@@ -1,0 +1,33 @@
+{
+  "structures": [
+    {
+      "structure": "ancientvillages:agricultural",
+      "weight": 1
+    },
+    {
+      "structure": "ancientvillages:industrial",
+      "weight": 1
+    },
+    {
+      "structure": "ancientvillages:military",
+      "weight": 1
+    },
+    {
+      "structure": "ancientvillages:commercial",
+      "weight": 1
+    },
+    {
+      "structure": "ancientvillages:lost_forge",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_band",
+    "salt": 62179220,
+    "spacing": 110,
+    "separation": 20,
+    "min_depth": 0.0,
+    "max_depth": 0.55,
+    "clan_only": true
+  }
+}

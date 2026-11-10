@@ -1,0 +1,6 @@
+
+["Dead King Boss"]
+	#Maximum health of the Dead King boss
+	#Range: 1.0 ~ 10000.0
+	maxHealth = 75.0
+

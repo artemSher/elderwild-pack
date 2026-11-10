@@ -1,0 +1,22 @@
+{
+  "clan": 0,
+  "tier": 3,
+  "type": "fetch",
+  "rep": 15,
+  "name": "Испытание стали",
+  "desc": "Принеси 2 обломка древнего металла из глубин — орден ценит доказанную храбрость, не суету.",
+  "params": {
+    "item": "minecraft:netherite_scrap",
+    "count": 2,
+    "rewards": [
+      {
+        "item": "minecraft:gold_ingot",
+        "count": 3
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "count": 1
+      }
+    ]
+  }
+}

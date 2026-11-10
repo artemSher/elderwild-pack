@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#towns_and_towers:has_structure/exclusives/village_tudor",
+    "#clanlands:center_fallback"
+  ]
+}

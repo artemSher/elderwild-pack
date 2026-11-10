@@ -1,0 +1,17 @@
+{
+  "clan": 2,
+  "tier": 3,
+  "type": "deliver",
+  "rep": 10,
+  "name": "Груз без гербов",
+  "desc": "Даже хранители иногда смотрят сквозь пальцы — перенеси свёрток во вражеское поселение. Староста ждёт, стража — нет.",
+  "params": {
+    "target": "hostile",
+    "contraband": true,
+    "expiryDays": 5,
+    "rewards": [
+      {"item": "minecraft:lapis_lazuli", "count": 16},
+      {"item": "minecraft:diamond", "count": 1}
+    ]
+  }
+}

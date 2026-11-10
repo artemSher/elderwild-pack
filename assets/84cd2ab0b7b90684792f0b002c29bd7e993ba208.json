@@ -1,0 +1,135 @@
+{
+  "cancelExternalSoundEvents": [],
+  "rules": [
+    {
+      "soundEvent": "soundstriger:keeper_of_the_fading_cinder_by_solas_composer",
+      "priority": 100,
+      "fadeInTime": 40,
+      "fadeOutTime": 40,
+      "loop": true,
+      "conditions": {
+        "maxDistance": 25,
+        "dimensions": [
+          "fresh:fire"
+        ]
+      }
+    },
+    {
+      "soundEvent": "soundstriger:high_priest",
+      "priority": 40,
+      "fadeInTime": 40,
+      "fadeOutTime": 40,
+      "loop": true,
+      "conditions": {
+        "mobIds": [
+          "dungeons_and_combat:high_priest"
+        ],
+        "maxDistance": 25
+      }
+    },
+    {
+      "soundEvent": "soundstriger:kamath",
+      "priority": 40,
+      "fadeInTime": 40,
+      "fadeOutTime": 40,
+      "loop": true,
+      "conditions": {
+        "mobIds": [
+          "dungeons_and_combat:kamath"
+        ],
+        "maxDistance": 25
+      }
+    },
+    {
+      "soundEvent": "soundstriger:sunleia",
+      "priority": 40,
+      "fadeInTime": 40,
+      "fadeOutTime": 40,
+      "loop": true,
+      "conditions": {
+        "mobIds": [
+          "dungeons_and_combat:sunleia"
+        ],
+        "maxDistance": 30
+      }
+    },
+    {
+      "soundEvent": "soundstriger:wither",
+      "priority": 40,
+      "fadeInTime": 40,
+      "fadeOutTime": 40,
+      "loop": true,
+      "conditions": {
+        "mobIds": [
+          "minecraft:wither"
+        ],
+        "maxDistance": 30
+      }
+    },
+    {
+      "soundEvent": "soundstriger:silent",
+      "priority": 40,
+      "fadeInTime": 40,
+      "fadeOutTime": 40,
+      "loop": true,
+      "conditions": {
+        "mobIds": [
+          "eeeabsmobs:nameless_guardian"
+        ],
+        "maxDistance": 30
+      }
+    },
+    {
+      "soundEvent": "soundstriger:scylla_theme",
+      "priority": 40,
+      "fadeInTime": 40,
+      "fadeOutTime": 40,
+      "loop": true,
+      "conditions": {
+        "mobIds": [
+          "cataclysm:scylla"
+        ],
+        "maxDistance": 40
+      }
+    },
+    {
+      "soundEvent": "soundstriger:maledictus_theme",
+      "priority": 40,
+      "fadeInTime": 40,
+      "fadeOutTime": 40,
+      "loop": true,
+      "conditions": {
+        "mobIds": [
+          "cataclysm:maledictus"
+        ],
+        "maxDistance": 40
+      }
+    },
+    {
+      "soundEvent": "soundstriger:monstrosity_theme",
+      "priority": 40,
+      "fadeInTime": 40,
+      "fadeOutTime": 40,
+      "loop": true,
+      "conditions": {
+        "mobIds": [
+          "cataclysm:netherite_monstrosity"
+        ],
+        "maxDistance": 40
+      }
+    },
+    {
+      "soundEvent": "soundstriger:harbinger_theme",
+      "priority": 40,
+      "fadeInTime": 40,
+      "fadeOutTime": 40,
+      "loop": true,
+      "conditions": {
+        "mobIds": [
+          "cataclysm:the_harbinger"
+        ],
+        "maxDistance": 40
+      }
+    }
+  ]
+}

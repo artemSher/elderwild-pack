@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "biomeswevegone:village/red_rock",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000030,
+    "biome_tag": "biomeswevegone:has_structure/village_red_rock",
+    "search_radius": 12
+  }
+}

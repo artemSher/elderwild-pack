@@ -1,0 +1,51 @@
+{
+  "id": "clanlands:blade_key",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.attack_damage",
+      "id": "98ca560f-df9c-59d7-acf8-59ba80a0f1f0",
+      "name": "Skill",
+      "amount": 0.1,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:has_item_equipped",
+        "item_condition": {
+          "equipment_type": "MELEE_WEAPON",
+          "type": "skilltree:equipment_type"
+        }
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "attributeslib:crit_damage",
+      "id": "61a6a66c-7a1b-5b6d-b67d-a73b5981b925",
+      "name": "Skill",
+      "amount": 0.08,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:blade_t2"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/keystone.png",
+  "iconTexture": "skilltree:textures/icons/sword_gold.png",
+  "borderTexture": "skilltree:textures/tooltip/keystone.png",
+  "positionX": -504.785,
+  "positionY": -39.73,
+  "buttonSize": 32,
+  "isStartingPoint": false
+}

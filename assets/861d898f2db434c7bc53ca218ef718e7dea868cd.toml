@@ -1,0 +1,75 @@
+#Stamina cost for using an axe (Default: 3.5)
+#Range: 0.1 ~ 10.0
+axeStaminaCost = 3.5
+#Stamina cost for using a sword (Default: 2.5)
+#Range: 0.1 ~ 10.0
+swordStaminaCost = 2.5
+#Stamina cost for using a spear (Default: 3.0)
+#Range: 0.1 ~ 10.0
+spearStaminaCost = 3.0
+#Stamina cost for using a greatsword (Default: 4.0)
+#Range: 0.1 ~ 10.0
+greatswordStaminaCost = 4.0
+#Stamina cost for using a dagger (Default: 1.2)
+#Range: 0.1 ~ 10.0
+daggerStaminaCost = 1.2
+#Stamina cost for using a bow (Default: 0.5)
+#Range: 0.1 ~ 10.0
+bowStaminaCost = 0.5
+#Stamina cost for using a crossbow (Default: 0.3)
+#Range: 0.1 ~ 10.0
+crossbowStaminaCost = 0.3
+#Stamina cost for using a trident (Default: 3.5)
+#Range: 0.1 ~ 10.0
+tridentStaminaCost = 3.5
+#Stamina cost for using an uchigatana (Default: 3.2)
+#Range: 0.1 ~ 10.0
+uchigatanaStaminaCost = 3.2
+#Stamina cost for using a tachi (Default: 3.5)
+#Range: 0.1 ~ 10.0
+tachiStaminaCost = 3.5
+#Stamina cost for using a longsword (Default: 3.0)
+#Range: 0.1 ~ 10.0
+longswordStaminaCost = 3.0
+#Stamina cost for using a hoe (Default: 1.5)
+#Range: 0.1 ~ 10.0
+hoeStaminaCost = 1.5
+#Stamina cost for using a shovel (Default: 1.5)
+#Range: 0.1 ~ 10.0
+shovelStaminaCost = 1.5
+#Stamina cost for using a pickaxe (Default: 1.8)
+#Range: 0.1 ~ 10.0
+pickaxeStaminaCost = 1.8
+#Stamina cost per tick while sprinting (Default: 0.1)
+#Range: 0.1 ~ 10.0
+sprintStaminaCost = 0.3
+#Multiplier for stamina cost based on blocked damage (Default: 1.2)
+#Range: 0.1 ~ 10.0
+shieldStaminaMultiplier = 1.2
+#Base stamina in start(Default: 100.0)
+#Range: 1.0 ~ 1024.0
+maxStartStamina = 100.0
+#Stamina cost for jumping (Default: 0.5)
+#Range: 0.1 ~ 10.0
+jumpStaminaCost = 0.5
+#Enable or disable stamina cost for sprinting (Default: true)
+enableSprintStamina = true
+#Enable or disable stamina cost for attacks (Default: true)
+enableAttackStamina = true
+#Enable or disable buffs for resting near campfires (Default: true)
+enableCampfireBuffs = true
+#Enable or disable stamina cost for blocking with shield (Default: true)
+enableShieldStamina = true
+#Enable or disable stamina cost for jump (Default: true)
+enableJumpStamina = true
+#Enable or disable stamina multiplier for different animations (Default: false)
+enableAnimationCost = false
+#Enable or disable Debug Mode (writes in chat the path of every animation when in battle mode. Default: false)
+enableDebugMode = false
+#Enable or disable stamina multiplier based on weapon damage (Every attack will now have the cost of the stamina set in this file or in datapacks. Default: true)
+enableDamageScalingCost = true
+#You can add your own stamina by writing the path of the attack animation and the cost.
+#Example: customAnimationCosts = ["animmodels/animations/biped/living/greatsword_airslash.json:2.5", "animmodels/animations/biped/living/spear_dash.json:3.5"]
+#Keep in mind that the cost is added to the attack cost!
+customAnimationCosts = []
+

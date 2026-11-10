@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:paper"
+    },
+    "title": {
+      "translate": "deeds.clanlands.first_quest"
+    },
+    "description": {
+      "translate": "deeds.clanlands.first_quest.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "granted": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "clanlands:deeds/first/root",
+  "rewards": {
+    "experience": 15
+  }
+}

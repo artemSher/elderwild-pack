@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "towns_and_towers:village_snowy_taiga",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000014,
+    "biome_tag": "towns_and_towers:has_structure/village_snowy_taiga_viking",
+    "search_radius": 12
+  }
+}

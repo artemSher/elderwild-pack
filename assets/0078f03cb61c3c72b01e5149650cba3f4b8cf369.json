@@ -1,0 +1,49 @@
+{
+  "id": "clanlands:wander_camp",
+  "bonuses": [
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "id": "bae35478-22e8-5945-af96-cbeb3b50e09f",
+      "name": "Skill",
+      "amount": 0.04,
+      "operation": 1,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    },
+    {
+      "type": "skilltree:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "id": "75966b44-4f7e-5da7-9c45-a359daf684d2",
+      "name": "Skill",
+      "amount": 2.0,
+      "operation": 0,
+      "player_multiplier": {
+        "type": "skilltree:none"
+      },
+      "player_condition": {
+        "type": "skilltree:none"
+      }
+    }
+  ],
+  "requirements": [],
+  "directConnections": [
+    "clanlands:wander_a6",
+    "clanlands:wander_t1",
+    "clanlands:wander_u1"
+  ],
+  "longConnections": [],
+  "oneWayConnections": [],
+  "tags": [],
+  "backgroundTexture": "skilltree:textures/icons/background/notable.png",
+  "iconTexture": "skilltree:textures/icons/torch.png",
+  "borderTexture": "skilltree:textures/tooltip/notable.png",
+  "positionX": 363.723,
+  "positionY": -19.036,
+  "buttonSize": 24,
+  "isStartingPoint": false
+}

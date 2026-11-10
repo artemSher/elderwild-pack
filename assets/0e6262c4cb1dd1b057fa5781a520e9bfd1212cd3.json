@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "towns_and_towers:exclusives/village_nilotic",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000025,
+    "biome_tag": "towns_and_towers:has_structure/exclusives/village_nilotic",
+    "search_radius": 12
+  }
+}

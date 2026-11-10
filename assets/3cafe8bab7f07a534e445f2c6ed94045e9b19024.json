@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "towns_and_towers:exclusives/village_classic",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000022,
+    "biome_tag": "towns_and_towers:has_structure/exclusives/village_classic",
+    "search_radius": 12
+  }
+}

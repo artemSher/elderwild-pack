@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "minecraft:village_snowy",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000035,
+    "biome_tag": "minecraft:has_structure/village_snowy",
+    "search_radius": 12
+  }
+}

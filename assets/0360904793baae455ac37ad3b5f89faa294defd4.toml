@@ -1,0 +1,6 @@
+
+["General Settings"]
+	#Adjust the bow offset, positive values move the bow to the right and vice versa. Default value is 0.1
+	#Range: -10.0 ~ 10.0
+	bowOffset = 0.1
+

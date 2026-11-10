@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "towns_and_towers:village_snowy_slopes",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "clanlands:zone_center",
+    "salt": 90000005,
+    "biome_tag": "towns_and_towers:has_structure/village_snowy_slopes_inn",
+    "search_radius": 12
+  }
+}

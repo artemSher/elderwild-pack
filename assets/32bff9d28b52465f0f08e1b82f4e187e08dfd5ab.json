@@ -1,0 +1,22 @@
+{
+  "clan": 2,
+  "tier": 3,
+  "type": "fetch",
+  "rep": 15,
+  "name": "Бумага для летописей",
+  "desc": "Архивы тают быстрее, чем пишутся. Принеси двадцать четыре листа бумаги — летопись не ждёт.",
+  "params": {
+    "item": "minecraft:paper",
+    "count": 24,
+    "rewards": [
+      {
+        "item": "minecraft:lapis_lazuli",
+        "count": 12
+      },
+      {
+        "item": "minecraft:enchanted_book",
+        "count": 1
+      }
+    ]
+  }
+}

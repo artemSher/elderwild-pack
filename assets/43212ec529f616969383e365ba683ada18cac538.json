@@ -1,0 +1,9 @@
+{
+  "type": "vampirism:extended_add_spawns",
+  "biomes": "#vampirism:has_spawn/advanced_vampire",
+  "excludedBiomes": "#vampirism:no_spawn/advanced_vampire",
+  "spawners": {
+    "category": "vampirism_vampire",
+    "super": {"type": "vampirism:advanced_vampire", "maxCount": 2, "minCount": 1, "weight": 10}
+  }
+}
