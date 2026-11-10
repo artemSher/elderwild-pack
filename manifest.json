@@ -188,7 +188,7 @@
    "path": "config/apotheosis/enchantments.cfg",
    "sha1": "989d826dae61dc33f0137742e98cf33347304d62",
    "size": 205100,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/989d826dae61dc33f0137742e98cf33347304d62.cfg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/989d826dae61dc33f0137742e98cf33347304d62.cfg"
   },
   {
    "path": "config/apotheosis/garden.cfg",
@@ -200,7 +200,7 @@
    "path": "config/apotheosis/names.cfg",
    "sha1": "f0a66c1428cba58003c7d6fb1f991882aee80116",
    "size": 224250,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/f0a66c1428cba58003c7d6fb1f991882aee80116.cfg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/f0a66c1428cba58003c7d6fb1f991882aee80116.cfg"
   },
   {
    "path": "config/apotheosis/potion.cfg",
@@ -1862,7 +1862,7 @@
    "path": "config/fancymenu/assets/autumn_bg.png",
    "sha1": "def3ab975bfc6402924a0bebe5728eabfd276014",
    "size": 1522833,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/def3ab975bfc6402924a0bebe5728eabfd276014.png"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/def3ab975bfc6402924a0bebe5728eabfd276014.png"
   },
   {
    "path": "config/fancymenu/custom_gui_screens.txt",
@@ -3092,7 +3092,7 @@
    "path": "config/paxi/datapacks/Edo Japan v0.6.0.zip",
    "sha1": "99e55f919e35149dd201ebd2bcc773fe0d2e8a83",
    "size": 225108,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/99e55f919e35149dd201ebd2bcc773fe0d2e8a83.zip"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/99e55f919e35149dd201ebd2bcc773fe0d2e8a83.zip"
   },
   {
    "path": "config/paxi/datapacks/KoMaM_Weight.zip",
@@ -4952,7 +4952,7 @@
    "path": "config/paxi/datapacks/epic-structures-dungeons-1.2.5.zip",
    "sha1": "ab762dcaf04fcdb036b698039d7fac12df2773eb",
    "size": 17378734,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/ab762dcaf04fcdb036b698039d7fac12df2773eb.zip"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/ab762dcaf04fcdb036b698039d7fac12df2773eb.zip"
   },
   {
    "path": "config/paxi/datapacks/eye_compat/data/endrem_compat/loot_modifiers/nether_eye_fortress.json",
@@ -7046,13 +7046,13 @@
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/calm1.ogg",
    "sha1": "c28b72cab4822add8557c83254bf7e7246426341",
    "size": 2131170,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c28b72cab4822add8557c83254bf7e7246426341.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c28b72cab4822add8557c83254bf7e7246426341.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/calm2.ogg",
    "sha1": "ac1753be172f7ab9d98bcaab828516479074bb6f",
    "size": 3186085,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/ac1753be172f7ab9d98bcaab828516479074bb6f.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/ac1753be172f7ab9d98bcaab828516479074bb6f.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/calm3.ogg",
@@ -7064,13 +7064,13 @@
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/creative/creative1.ogg",
    "sha1": "ac1753be172f7ab9d98bcaab828516479074bb6f",
    "size": 3186085,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/ac1753be172f7ab9d98bcaab828516479074bb6f.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/ac1753be172f7ab9d98bcaab828516479074bb6f.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/creative/creative2.ogg",
    "sha1": "c28b72cab4822add8557c83254bf7e7246426341",
    "size": 2131170,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c28b72cab4822add8557c83254bf7e7246426341.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c28b72cab4822add8557c83254bf7e7246426341.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/creative/creative3.ogg",
@@ -7112,7 +7112,7 @@
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/end/end.ogg",
    "sha1": "ba93fe2993750f3bddd0eb5ce1a778b8c23d7e91",
    "size": 844029,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/ba93fe2993750f3bddd0eb5ce1a778b8c23d7e91.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/ba93fe2993750f3bddd0eb5ce1a778b8c23d7e91.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/hal1.ogg",
@@ -7124,7 +7124,7 @@
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/hal2.ogg",
    "sha1": "b6d5786b0c025f9cb46ab51343ecabdb9391fa58",
    "size": 2643665,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/b6d5786b0c025f9cb46ab51343ecabdb9391fa58.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/b6d5786b0c025f9cb46ab51343ecabdb9391fa58.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/hal3.ogg",
@@ -7148,7 +7148,7 @@
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/nether/nether2.ogg",
    "sha1": "a3844308596936a2e78ca7e3f8a865d38414b584",
    "size": 710899,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/a3844308596936a2e78ca7e3f8a865d38414b584.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/a3844308596936a2e78ca7e3f8a865d38414b584.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/nether/nether3.ogg",
@@ -7160,7 +7160,7 @@
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/nether/nether4.ogg",
    "sha1": "d2753b72a75d6de78478187d9090be955c8aa709",
    "size": 1272131,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d2753b72a75d6de78478187d9090be955c8aa709.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d2753b72a75d6de78478187d9090be955c8aa709.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/nuance1.ogg",
@@ -7172,19 +7172,19 @@
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/nuance2.ogg",
    "sha1": "c913f9bd35f506ed365d146fb2221c4f45881c57",
    "size": 2207651,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c913f9bd35f506ed365d146fb2221c4f45881c57.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c913f9bd35f506ed365d146fb2221c4f45881c57.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/piano1.ogg",
    "sha1": "bc37a2a695b747c1ba735d481efb1f6f17c7247b",
    "size": 3057828,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/bc37a2a695b747c1ba735d481efb1f6f17c7247b.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/bc37a2a695b747c1ba735d481efb1f6f17c7247b.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/piano2.ogg",
    "sha1": "a194a439f411da1b20284a3b1c9ad0854a544753",
    "size": 1854672,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/a194a439f411da1b20284a3b1c9ad0854a544753.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/a194a439f411da1b20284a3b1c9ad0854a544753.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/game/piano3.ogg",
@@ -7196,7 +7196,7 @@
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/menu/menu1.ogg",
    "sha1": "c913f9bd35f506ed365d146fb2221c4f45881c57",
    "size": 2207651,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c913f9bd35f506ed365d146fb2221c4f45881c57.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c913f9bd35f506ed365d146fb2221c4f45881c57.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/menu/menu2.ogg",
@@ -7214,19 +7214,19 @@
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/music/menu/menu4.ogg",
    "sha1": "ac1753be172f7ab9d98bcaab828516479074bb6f",
    "size": 3186085,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/ac1753be172f7ab9d98bcaab828516479074bb6f.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/ac1753be172f7ab9d98bcaab828516479074bb6f.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/records/13.ogg",
    "sha1": "b0cf4d07387bef31bd4e927307f8b8743766ff7c",
    "size": 3685290,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/b0cf4d07387bef31bd4e927307f8b8743766ff7c.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/b0cf4d07387bef31bd4e927307f8b8743766ff7c.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/records/blocks.ogg",
    "sha1": "d57c3bb5421a0afe6365c84efbdcccff5b74d47c",
    "size": 2968963,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d57c3bb5421a0afe6365c84efbdcccff5b74d47c.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d57c3bb5421a0afe6365c84efbdcccff5b74d47c.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/records/cat.ogg",
@@ -7256,19 +7256,19 @@
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/records/mellohi.ogg",
    "sha1": "f526b115caedf173ee1b0aa4a0574ec75938fd75",
    "size": 2766255,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/f526b115caedf173ee1b0aa4a0574ec75938fd75.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/f526b115caedf173ee1b0aa4a0574ec75938fd75.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/records/stal.ogg",
    "sha1": "d5b26176ebe3a2a2fcb7ba6f6c3cbd95715b4e80",
    "size": 4325352,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d5b26176ebe3a2a2fcb7ba6f6c3cbd95715b4e80.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d5b26176ebe3a2a2fcb7ba6f6c3cbd95715b4e80.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/records/stard.ogg",
    "sha1": "f984580cffa301a546bf1c6812aeeab55c3a5830",
    "size": 1644341,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/f984580cffa301a546bf1c6812aeeab55c3a5830.ogg"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/f984580cffa301a546bf1c6812aeeab55c3a5830.ogg"
   },
   {
    "path": "config/paxi/resourcepacks/tes_iv_music/assets/minecraft/sounds/records/wait.ogg",
@@ -8588,13 +8588,13 @@
    "path": "disabled_mods/Vampirism-1.20.1-1.10.17.jar",
    "sha1": "ca96abbd6ac60d6f0d05b4e5d7b629cb6f90c0a0",
    "size": 12406393,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/ca96abbd6ac60d6f0d05b4e5d7b629cb6f90c0a0.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/ca96abbd6ac60d6f0d05b4e5d7b629cb6f90c0a0.jar"
   },
   {
    "path": "disabled_mods/alshanex_familiars-1.20.1_v1.1.2_HotFix.jar",
    "sha1": "bccbfd68c60c272f9a5498bcffa731d2e26285f1",
    "size": 21479291,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/bccbfd68c60c272f9a5498bcffa731d2e26285f1.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/bccbfd68c60c272f9a5498bcffa731d2e26285f1.jar"
   },
   {
    "path": "disabled_mods/astikorcartsredux-1.2.5.jar",
@@ -8612,13 +8612,13 @@
    "path": "disabled_mods/balm-forge-1.20.1-7.3.27-all.jar",
    "sha1": "ca67b7528946937c609d8d3bfb9ea69a56f4b4b4",
    "size": 475315,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/ca67b7528946937c609d8d3bfb9ea69a56f4b4b4.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/ca67b7528946937c609d8d3bfb9ea69a56f4b4b4.jar"
   },
   {
    "path": "disabled_mods/carryon-forge-1.20.1-2.1.2.7.jar",
    "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
    "size": 439457,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/9999714ca3dd2f2401f0396ca44f3b27c3784c4f.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/9999714ca3dd2f2401f0396ca44f3b27c3784c4f.jar"
   },
   {
    "path": "disabled_mods/jaams_weaponry-1.1.3-forge-1.20.1.jar",
@@ -8642,31 +8642,31 @@
    "path": "disabled_mods/memoryleakfix.jar",
    "sha1": "9f60142dd94631800386a16a4ad70ad9e84cd78a",
    "size": 227925,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/9f60142dd94631800386a16a4ad70ad9e84cd78a.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/9f60142dd94631800386a16a4ad70ad9e84cd78a.jar"
   },
   {
    "path": "disabled_mods/observable.jar",
    "sha1": "c8a0ae25512d0cedef478df411c87e43703ae237",
    "size": 470536,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c8a0ae25512d0cedef478df411c87e43703ae237.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c8a0ae25512d0cedef478df411c87e43703ae237.jar"
   },
   {
    "path": "disabled_mods/open-parties-and-claims-forge-1.20.1-0.31.6.jar",
    "sha1": "cb5a9d300cdc49b9a7c61d27fbc17d8a7b5c3810",
    "size": 1830866,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/cb5a9d300cdc49b9a7c61d27fbc17d8a7b5c3810.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/cb5a9d300cdc49b9a7c61d27fbc17d8a7b5c3810.jar"
   },
   {
    "path": "disabled_mods/paladin-furniture-mod-1.5.0-forge-mc1.20.1.jar",
    "sha1": "dd0a7003a40c390c793de08f05b0e99a0c3f2a6e",
    "size": 6261408,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/dd0a7003a40c390c793de08f05b0e99a0c3f2a6e.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/dd0a7003a40c390c793de08f05b0e99a0c3f2a6e.jar"
   },
   {
    "path": "disabled_mods/rhino-forge-2001.2.3-build.10.jar",
    "sha1": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
    "size": 1798244,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1.jar"
   },
   {
    "path": "disabled_mods/spark.jar",
@@ -8738,13 +8738,13 @@
    "path": "disabled_mods/waystones-forge-1.20.1-14.1.11.jar",
    "sha1": "e7b648a3e77ce809dfd470200af1d1baadb4cb87",
    "size": 487683,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/e7b648a3e77ce809dfd470200af1d1baadb4cb87.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/e7b648a3e77ce809dfd470200af1d1baadb4cb87.jar"
   },
   {
    "path": "disabled_mods/worldedit-mod-7.2.15.jar",
    "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f",
    "size": 5825402,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/9c52765ca56f917ef8cbafc20e9a4f45c346508f.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/9c52765ca56f917ef8cbafc20e9a4f45c346508f.jar"
   },
   {
    "path": "kubejs/README.txt",
@@ -8810,13 +8810,13 @@
    "path": "mods/AmbientSounds_FORGE_v6.1.11_mc1.20.1.jar",
    "sha1": "af412170c07febfb5c611b7237d806230dc83584",
    "size": 51722248,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/af412170c07febfb5c611b7237d806230dc83584.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/af412170c07febfb5c611b7237d806230dc83584.jar"
   },
   {
    "path": "mods/Apotheosis-1.20.1-7.4.8.jar",
    "sha1": "e508c4724a24f0c80836818fcdd3df6424b1fc40",
    "size": 2803994,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/e508c4724a24f0c80836818fcdd3df6424b1fc40.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/e508c4724a24f0c80836818fcdd3df6424b1fc40.jar"
   },
   {
    "path": "mods/ApothicAttributes-1.20.1-1.3.7.jar",
@@ -8858,7 +8858,7 @@
    "path": "mods/Bookshelf-Forge-1.20.1-20.2.13.jar",
    "sha1": "c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5",
    "size": 343962,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c53d9eb5ce9e8ef0f2ea9b11e478d84ce958c3e5.jar"
   },
   {
    "path": "mods/Bountiful-6.0.4+1.20.1-forge.jar",
@@ -8900,13 +8900,13 @@
    "path": "mods/Corgilib-Forge-1.20.1-4.0.3.3.jar",
    "sha1": "d16e759524a44d4aeaaeeab15ac2e687175af209",
    "size": 360624,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d16e759524a44d4aeaaeeab15ac2e687175af209.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d16e759524a44d4aeaaeeab15ac2e687175af209.jar"
   },
   {
    "path": "mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
    "sha1": "d49e8c29748677d0a530432f1c1bda4e9865da00",
    "size": 1158417,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d49e8c29748677d0a530432f1c1bda4e9865da00.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d49e8c29748677d0a530432f1c1bda4e9865da00.jar"
   },
   {
    "path": "mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
@@ -8978,7 +8978,7 @@
    "path": "mods/EpicFight Resurrection-0.1.10-hotfix2-1.20.1.jar",
    "sha1": "dace54772f8a8a7aa4f40a383762e54844aa3237",
    "size": 9068015,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/dace54772f8a8a7aa4f40a383762e54844aa3237.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/dace54772f8a8a7aa4f40a383762e54844aa3237.jar"
   },
   {
    "path": "mods/EpicFight-Dual-Tachi  Dual-Longsword 1.20.1-v1.0.1.jar",
@@ -8990,7 +8990,7 @@
    "path": "mods/EuphoriaPatcher-1.6.5-r5.5.1-forge.jar",
    "sha1": "bbe53e53afa8ff726795600437fe25a01de43a71",
    "size": 2008843,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/bbe53e53afa8ff726795600437fe25a01de43a71.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/bbe53e53afa8ff726795600437fe25a01de43a71.jar"
   },
   {
    "path": "mods/Explorify v1.6.5.mod.jar",
@@ -9002,7 +9002,7 @@
    "path": "mods/ExtraSoundsNext-forge-1.20.1-1.4.jar",
    "sha1": "e2167a2e3e016cfb65a130d31c47cddcb765bd14",
    "size": 220040,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/e2167a2e3e016cfb65a130d31c47cddcb765bd14.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/e2167a2e3e016cfb65a130d31c47cddcb765bd14.jar"
   },
   {
    "path": "mods/Fallingleaves-1.20.1-2.1.0.jar",
@@ -9092,7 +9092,7 @@
    "path": "mods/Jade-1.20.1-Forge-11.13.3.jar",
    "sha1": "d08e64e66521d69e083c8525f1fc507f1c202384",
    "size": 553487,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d08e64e66521d69e083c8525f1fc507f1c202384.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d08e64e66521d69e083c8525f1fc507f1c202384.jar"
   },
   {
    "path": "mods/Jadens-Nether-Expansion-2.1.0-Forge.jar",
@@ -9146,7 +9146,7 @@
    "path": "mods/ManyIdeasCore-1.20.1-1.6.1.jar",
    "sha1": "ff23dddddad99511dd09825392ef9a7e86e9eaba",
    "size": 956287,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/ff23dddddad99511dd09825392ef9a7e86e9eaba.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/ff23dddddad99511dd09825392ef9a7e86e9eaba.jar"
   },
   {
    "path": "mods/ManyIdeasDoors-1.20.1-1.2.4.jar",
@@ -9158,7 +9158,7 @@
    "path": "mods/ModernUI-Forge-1.20.1-3.12.0.1-universal.jar",
    "sha1": "fcebe51e3c2ca34793f9b132fa05b5494ffc76a4",
    "size": 25104473,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/fcebe51e3c2ca34793f9b132fa05b5494ffc76a4.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/fcebe51e3c2ca34793f9b132fa05b5494ffc76a4.jar"
   },
   {
    "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
@@ -9176,13 +9176,13 @@
    "path": "mods/ObsidianUI-forge-0.2.3+mc1.20.1.jar",
    "sha1": "aaa69c42410847ac5d13034fba9d519e0afd0abf",
    "size": 212286,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/aaa69c42410847ac5d13034fba9d519e0afd0abf.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/aaa69c42410847ac5d13034fba9d519e0afd0abf.jar"
   },
   {
    "path": "mods/OctoLib-FORGE-0.4.2+1.20.1.jar",
    "sha1": "d39a7e4d7ebd4e6f427f5c0958b7e2080ba02800",
    "size": 401032,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d39a7e4d7ebd4e6f427f5c0958b7e2080ba02800.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d39a7e4d7ebd4e6f427f5c0958b7e2080ba02800.jar"
   },
   {
    "path": "mods/Oh-The-Biomes-Weve-Gone-Forge-1.5.11.jar",
@@ -9242,7 +9242,7 @@
    "path": "mods/Placebo-1.20.1-8.6.3.jar",
    "sha1": "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f",
    "size": 282474,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/e85f53de2e582a79ce25ff1df1e7b5b5fc08440f.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/e85f53de2e582a79ce25ff1df1e7b5b5fc08440f.jar"
   },
   {
    "path": "mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
@@ -9260,13 +9260,13 @@
    "path": "mods/PuzzlesLib-v8.1.23-1.20.1-Forge.jar",
    "sha1": "dac5d9a8dbb0df2c98d4b71aa1f5ab04761ac34f",
    "size": 1002231,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/dac5d9a8dbb0df2c98d4b71aa1f5ab04761ac34f.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/dac5d9a8dbb0df2c98d4b71aa1f5ab04761ac34f.jar"
   },
   {
    "path": "mods/Quark-4.0-462.jar",
    "sha1": "9b0fb82995622a0070c00827c698c43b49d9d14b",
    "size": 14935230,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/9b0fb82995622a0070c00827c698c43b49d9d14b.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/9b0fb82995622a0070c00827c698c43b49d9d14b.jar"
   },
   {
    "path": "mods/RecipesLibrary-1.20.1-2.0.2.jar",
@@ -9350,7 +9350,7 @@
    "path": "mods/TreeChop-1.20.1-forge-0.19.0-fixed.jar",
    "sha1": "ac5a20b5a2fd9ed7d6e9a0c033f53307947e5f3f",
    "size": 517225,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/ac5a20b5a2fd9ed7d6e9a0c033f53307947e5f3f.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/ac5a20b5a2fd9ed7d6e9a0c033f53307947e5f3f.jar"
   },
   {
    "path": "mods/Tumbleweed-forge-1.20.1-0.5.5.jar",
@@ -9380,7 +9380,7 @@
    "path": "mods/YungsApi-1.20-Forge-4.0.6.jar",
    "sha1": "af584b690f5646c6032002b58abc4591beed3833",
    "size": 370524,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/af584b690f5646c6032002b58abc4591beed3833.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/af584b690f5646c6032002b58abc4591beed3833.jar"
   },
   {
    "path": "mods/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
@@ -9404,7 +9404,7 @@
    "path": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
    "sha1": "e2cbc574807a994bb9610184eb4bbfe29a6c0774",
    "size": 492998,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/e2cbc574807a994bb9610184eb4bbfe29a6c0774.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/e2cbc574807a994bb9610184eb4bbfe29a6c0774.jar"
   },
   {
    "path": "mods/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
@@ -9416,7 +9416,7 @@
    "path": "mods/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
    "sha1": "d8e74ed19903752a97ed0e1d2b1a8bf378bc252f",
    "size": 1033262,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d8e74ed19903752a97ed0e1d2b1a8bf378bc252f.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d8e74ed19903752a97ed0e1d2b1a8bf378bc252f.jar"
   },
   {
    "path": "mods/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
@@ -9500,7 +9500,7 @@
    "path": "mods/_old/clanlands-0.12.20.jar",
    "sha1": "d6271dcaa84cb98a6230b0005e6c3900f3b47ad4",
    "size": 529146,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d6271dcaa84cb98a6230b0005e6c3900f3b47ad4.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d6271dcaa84cb98a6230b0005e6c3900f3b47ad4.jar"
   },
   {
    "path": "mods/_old/clanlands-0.12.21.jar",
@@ -9512,7 +9512,7 @@
    "path": "mods/_old/clanlands-0.12.22.jar",
    "sha1": "9c0b498e639a25c6f8fcc52f025e9b3e4323948a",
    "size": 586175,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/9c0b498e639a25c6f8fcc52f025e9b3e4323948a.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/9c0b498e639a25c6f8fcc52f025e9b3e4323948a.jar"
   },
   {
    "path": "mods/_old/clanlands-0.12.23.jar",
@@ -9554,13 +9554,13 @@
    "path": "mods/additionallanterns-1.1.2-forge-mc1.20.2.jar",
    "sha1": "c30053984d1d0e329ae92db99bd6c1b0ee60d6e5",
    "size": 3157057,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c30053984d1d0e329ae92db99bd6c1b0ee60d6e5.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c30053984d1d0e329ae92db99bd6c1b0ee60d6e5.jar"
   },
   {
    "path": "mods/alexscaves-2.0.2.jar",
    "sha1": "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53",
    "size": 74871657,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53.jar"
   },
   {
    "path": "mods/almanac-1.20.x-forge-1.0.2.jar",
@@ -9608,19 +9608,19 @@
    "path": "mods/architectury-9.2.14-forge.jar",
    "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
    "size": 580602,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/a52918a500ff421180a1cbd1a0cabee712134ec4.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/a52918a500ff421180a1cbd1a0cabee712134ec4.jar"
   },
   {
    "path": "mods/armoroftheages-forge-1.20.1.jar",
    "sha1": "bb0bb4263a43b99216b2193500a6ab7ac439763a",
    "size": 528949,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/bb0bb4263a43b99216b2193500a6ab7ac439763a.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/bb0bb4263a43b99216b2193500a6ab7ac439763a.jar"
   },
   {
    "path": "mods/artifacts-forge-9.5.13.jar",
    "sha1": "fd41c0a8371a4855ddbbb5419cde46405208ca10",
    "size": 843867,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/fd41c0a8371a4855ddbbb5419cde46405208ca10.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/fd41c0a8371a4855ddbbb5419cde46405208ca10.jar"
   },
   {
    "path": "mods/arts_and_crafts-forge-1.20.1-1.2.0.jar",
@@ -9674,7 +9674,7 @@
    "path": "mods/balm-forge-1.20.1-7.3.44.jar",
    "sha1": "dae7e647fc54609e66e4f910931be65776352b72",
    "size": 561741,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/dae7e647fc54609e66e4f910931be65776352b72.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/dae7e647fc54609e66e4f910931be65776352b72.jar"
   },
   {
    "path": "mods/bbb-forge-2.0pre4.jar",
@@ -9710,7 +9710,7 @@
    "path": "mods/blueprint-1.20.1-7.1.3.jar",
    "sha1": "fdf9cb568546e80485ea4402a39656ed9acfa991",
    "size": 1151213,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/fdf9cb568546e80485ea4402a39656ed9acfa991.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/fdf9cb568546e80485ea4402a39656ed9acfa991.jar"
   },
   {
    "path": "mods/blur-forge-3.1.1.jar",
@@ -9776,7 +9776,7 @@
    "path": "mods/chloride-FORGE-mc1.20.1-v1.7.2.jar",
    "sha1": "d04b7bcd14a210a670877ff3f425fbf760dadda3",
    "size": 944500,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d04b7bcd14a210a670877ff3f425fbf760dadda3.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d04b7bcd14a210a670877ff3f425fbf760dadda3.jar"
   },
   {
    "path": "mods/chronicle-0.1.1.jar",
@@ -9788,25 +9788,25 @@
    "path": "mods/citadel-2.6.1-1.20.1.jar",
    "sha1": "97ccbfda78ed538669352d868ad6fa6075ec6a99",
    "size": 3173637,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/97ccbfda78ed538669352d868ad6fa6075ec6a99.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/97ccbfda78ed538669352d868ad6fa6075ec6a99.jar"
   },
   {
    "path": "mods/clanlands-0.12.33.jar",
    "sha1": "de4bd93241c2eab7c077ca56f737eadafd2af7f2",
    "size": 727066,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/de4bd93241c2eab7c077ca56f737eadafd2af7f2.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/de4bd93241c2eab7c077ca56f737eadafd2af7f2.jar"
   },
   {
    "path": "mods/cloth-config-11.1.136-forge.jar",
    "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
    "size": 1181413,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c65d07748acc57ceb45d53b3964368b84f34d54f.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c65d07748acc57ceb45d53b3964368b84f34d54f.jar"
   },
   {
    "path": "mods/collective-1.20.1-8.3.jar",
    "sha1": "ec387c40637a330661d9f4c3e59d93efc17046a2",
    "size": 657310,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/ec387c40637a330661d9f4c3e59d93efc17046a2.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/ec387c40637a330661d9f4c3e59d93efc17046a2.jar"
   },
   {
    "path": "mods/configured-forge-1.20.1-2.2.3.jar",
@@ -9824,7 +9824,7 @@
    "path": "mods/copycats-3.0.2+mc.1.20.1-forge.jar",
    "sha1": "b520234ee3194ada89bbfa0336e3abee11d711e7",
    "size": 1988341,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/b520234ee3194ada89bbfa0336e3abee11d711e7.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/b520234ee3194ada89bbfa0336e3abee11d711e7.jar"
   },
   {
    "path": "mods/coroutil-forge-1.20.1-1.3.7.jar",
@@ -9836,7 +9836,7 @@
    "path": "mods/corpse-forge-1.20.1-1.0.21.jar",
    "sha1": "fb68fba706e0a41f1e46492e0d54fde4945b8a05",
    "size": 245618,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/fb68fba706e0a41f1e46492e0d54fde4945b8a05.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/fb68fba706e0a41f1e46492e0d54fde4945b8a05.jar"
   },
   {
    "path": "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
@@ -9848,7 +9848,7 @@
    "path": "mods/create-1.20.1-6.0.6.jar",
    "sha1": "c5eb5efad7a4776d558b44b28891f2e33eef03e4",
    "size": 18764522,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c5eb5efad7a4776d558b44b28891f2e33eef03e4.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c5eb5efad7a4776d558b44b28891f2e33eef03e4.jar"
   },
   {
    "path": "mods/creeperoverhaul-3.0.2-forge.jar",
@@ -9890,13 +9890,13 @@
    "path": "mods/dacxirons-1.5.2.jar",
    "sha1": "e80a0ef8d6f851507131beb34b328d0a7ba5acd9",
    "size": 406755,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/e80a0ef8d6f851507131beb34b328d0a7ba5acd9.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/e80a0ef8d6f851507131beb34b328d0a7ba5acd9.jar"
   },
   {
    "path": "mods/dawnoftimebuilder-forge-1.20.1-1.5.53.jar",
    "sha1": "d64bffa8909ff5a2a1d9fcbadf50e44f2ca3f353",
    "size": 3236903,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d64bffa8909ff5a2a1d9fcbadf50e44f2ca3f353.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d64bffa8909ff5a2a1d9fcbadf50e44f2ca3f353.jar"
   },
   {
    "path": "mods/decorative_blocks-forge-1.20.1-4.1.3.jar",
@@ -9914,7 +9914,7 @@
    "path": "mods/diet-forge-2.1.1+1.20.1.jar",
    "sha1": "c5f5d5980803259931dfa62236e888fb08ecf70a",
    "size": 368483,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c5f5d5980803259931dfa62236e888fb08ecf70a.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c5f5d5980803259931dfa62236e888fb08ecf70a.jar"
   },
   {
    "path": "mods/dragonfight-1.20.1-4.0.jar",
@@ -9932,13 +9932,13 @@
    "path": "mods/dungeons-and-taverns-3.0.3.f[Forge].jar",
    "sha1": "994e6446f6daaccf804215c110072a3c43fe0bb3",
    "size": 13127334,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/994e6446f6daaccf804215c110072a3c43fe0bb3.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/994e6446f6daaccf804215c110072a3c43fe0bb3.jar"
   },
   {
    "path": "mods/dungeons_and_combat-1.2.4-forge-1.20.1.jar",
    "sha1": "99ba4bdba294e08473ebbe74b18ab63013798c65",
    "size": 13428817,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/99ba4bdba294e08473ebbe74b18ab63013798c65.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/99ba4bdba294e08473ebbe74b18ab63013798c65.jar"
   },
   {
    "path": "mods/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
@@ -9998,7 +9998,7 @@
    "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
    "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
    "size": 1320675,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/bb2fa8f3e493af16af9160d049f96c614a1faf2f.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/bb2fa8f3e493af16af9160d049f96c614a1faf2f.jar"
   },
   {
    "path": "mods/end_villager_outpost-1.0.0-forge-1.20.1.jar",
@@ -10028,13 +10028,13 @@
    "path": "mods/endrem_forge-5.3.3-R-1.20.1.jar",
    "sha1": "b4df41de8439e834a493fe59842709ef33ecfa82",
    "size": 889634,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/b4df41de8439e834a493fe59842709ef33ecfa82.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/b4df41de8439e834a493fe59842709ef33ecfa82.jar"
   },
   {
    "path": "mods/entity_model_features-3.3.9-1.20.1-forge.jar",
    "sha1": "c616b349a291bd87fc0ce3070858caf5f2bc944c",
    "size": 826048,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c616b349a291bd87fc0ce3070858caf5f2bc944c.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c616b349a291bd87fc0ce3070858caf5f2bc944c.jar"
   },
   {
    "path": "mods/entity_texture_features-7.2.4-1.20.1-forge.jar",
@@ -10052,7 +10052,7 @@
    "path": "mods/epic-knights-1.20.1-forge-10.3.jar",
    "sha1": "c4624ced068ca6f80f83a3ddf5e2304915fcc502",
    "size": 2935430,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c4624ced068ca6f80f83a3ddf5e2304915fcc502.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c4624ced068ca6f80f83a3ddf5e2304915fcc502.jar"
   },
   {
    "path": "mods/epiccompat_parcool-forge-1.20.1-1.0.3.jar",
@@ -10064,7 +10064,7 @@
    "path": "mods/epicfight-forge-20.9.7-1.20.1.jar",
    "sha1": "b043c7952bd2e33ed3f46e366b176bdf4399d824",
    "size": 6741048,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/b043c7952bd2e33ed3f46e366b176bdf4399d824.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/b043c7952bd2e33ed3f46e366b176bdf4399d824.jar"
   },
   {
    "path": "mods/everycomp-1.20-2.9.26-forge.jar",
@@ -10088,13 +10088,13 @@
    "path": "mods/exposure_polaroid-forge-1.20.1-1.1.4.jar",
    "sha1": "da0c148b1253f6b9cbf48217273f35b2eb5a9ecb",
    "size": 347523,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/da0c148b1253f6b9cbf48217273f35b2eb5a9ecb.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/da0c148b1253f6b9cbf48217273f35b2eb5a9ecb.jar"
   },
   {
    "path": "mods/fabric-api-0.92.6+1.11.15+1.20.1.jar",
    "sha1": "a37689ff8da8a32f82304ea4a1011873bb4c7eca",
    "size": 3065833,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/a37689ff8da8a32f82304ea4a1011873bb4c7eca.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/a37689ff8da8a32f82304ea4a1011873bb4c7eca.jar"
   },
   {
    "path": "mods/falchionmoveset-20.8.2.jar",
@@ -10118,7 +10118,7 @@
    "path": "mods/fantasy_weapons-forge-0.4-1.20.1.jar",
    "sha1": "a2baf193c557e742cd00d314b9061e2848b7f24a",
    "size": 592319,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/a2baf193c557e742cd00d314b9061e2848b7f24a.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/a2baf193c557e742cd00d314b9061e2848b7f24a.jar"
   },
   {
    "path": "mods/fantasyfurniture-1.20.1-9.0.0.jar",
@@ -10142,7 +10142,7 @@
    "path": "mods/freshmovement-1.0.2.jar",
    "sha1": "9dbe2270f67fcb5e3ff495de500bb529ac665303",
    "size": 263346,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/9dbe2270f67fcb5e3ff495de500bb529ac665303.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/9dbe2270f67fcb5e3ff495de500bb529ac665303.jar"
   },
   {
    "path": "mods/ftb-essentials-forge-2001.2.4.jar",
@@ -10160,13 +10160,13 @@
    "path": "mods/ftb-teams-forge-2001.3.0.jar",
    "sha1": "c47a218015654187a2121d0e0315a0cab30911ac",
    "size": 245089,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c47a218015654187a2121d0e0315a0cab30911ac.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c47a218015654187a2121d0e0315a0cab30911ac.jar"
   },
   {
    "path": "mods/fusion-1.3.15b-forge-mc1.20.1.jar",
    "sha1": "9770ee0fdd377a5cd16bfab53341f62f656ff51a",
    "size": 972917,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/9770ee0fdd377a5cd16bfab53341f62f656ff51a.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/9770ee0fdd377a5cd16bfab53341f62f656ff51a.jar"
   },
   {
    "path": "mods/fzzy_config-0.7.7+1.20.1+forge.jar",
@@ -10184,7 +10184,7 @@
    "path": "mods/geckolib-forge-1.20.1-4.7.4.jar",
    "sha1": "db550c1cab6c5e07a592f7881b6772d45626a50d",
    "size": 1013210,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/db550c1cab6c5e07a592f7881b6772d45626a50d.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/db550c1cab6c5e07a592f7881b6772d45626a50d.jar"
   },
   {
    "path": "mods/getittogetherdrops.jar",
@@ -10214,7 +10214,7 @@
    "path": "mods/handcrafted-forge-1.20.1-3.0.6.jar",
    "sha1": "f1b9a009529134c736c59d6d192d53a4a25e5e5f",
    "size": 7111059,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/f1b9a009529134c736c59d6d192d53a4a25e5e5f.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/f1b9a009529134c736c59d6d192d53a4a25e5e5f.jar"
   },
   {
    "path": "mods/hearth_and_home-forge-1.20.1-2.0.1.jar",
@@ -10256,7 +10256,7 @@
    "path": "mods/immersive_weathering-1.20.1-2.0.5-forge.jar",
    "sha1": "d89ad3793ffb97df27f415ac6cc07c61460dd9f3",
    "size": 2269048,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d89ad3793ffb97df27f415ac6cc07c61460dd9f3.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d89ad3793ffb97df27f415ac6cc07c61460dd9f3.jar"
   },
   {
    "path": "mods/integrated_api-1.5.3+1.20.1-forge.jar",
@@ -10304,13 +10304,13 @@
    "path": "mods/jei-1.20.1-forge-15.20.0.129.jar",
    "sha1": "eba88424bd28c8bce0e49da13ada71cd47148b47",
    "size": 1409642,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/eba88424bd28c8bce0e49da13ada71cd47148b47.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/eba88424bd28c8bce0e49da13ada71cd47148b47.jar"
   },
   {
    "path": "mods/journeymap-forge-1.20.1-6.0.6.jar.disabled",
    "sha1": "a3d9009272c0e22d6057a7e5fbed1bfa17a4dea7",
    "size": 4349543,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/a3d9009272c0e22d6057a7e5fbed1bfa17a4dea7.disabled"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/a3d9009272c0e22d6057a7e5fbed1bfa17a4dea7.disabled"
   },
   {
    "path": "mods/justenoughbreeding-forge-1.20-1.20.1-2.5.0.jar",
@@ -10328,7 +10328,7 @@
    "path": "mods/leawind_third_person-v2.2.0-mc1.20-1.20.1-forge.jar",
    "sha1": "acd53eaae56f6bc0b3b60b9cda1f37dcc71ec9d3",
    "size": 347536,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/acd53eaae56f6bc0b3b60b9cda1f37dcc71ec9d3.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/acd53eaae56f6bc0b3b60b9cda1f37dcc71ec9d3.jar"
   },
   {
    "path": "mods/letmedespawn-1.20.x-forge-1.5.0.jar",
@@ -10340,13 +10340,13 @@
    "path": "mods/letsdo-API-forge-1.2.15-forge.jar",
    "sha1": "a261043a45097d861a13a63ebdbb0ca350e06a63",
    "size": 1440591,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/a261043a45097d861a13a63ebdbb0ca350e06a63.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/a261043a45097d861a13a63ebdbb0ca350e06a63.jar"
   },
   {
    "path": "mods/letsdo-bakery-forge-1.1.14.jar",
    "sha1": "ed2986d229c9c1e208c9954ea1b9523ddeecb507",
    "size": 1711236,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/ed2986d229c9c1e208c9954ea1b9523ddeecb507.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/ed2986d229c9c1e208c9954ea1b9523ddeecb507.jar"
   },
   {
    "path": "mods/letsdo-bloomingnature-forge-1.0.12.jar",
@@ -10376,13 +10376,13 @@
    "path": "mods/letsdo-meadow-forge-1.3.25.jar",
    "sha1": "da7d934ff35f03279bee6597362f30d2aea7462f",
    "size": 2676511,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/da7d934ff35f03279bee6597362f30d2aea7462f.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/da7d934ff35f03279bee6597362f30d2aea7462f.jar"
   },
   {
    "path": "mods/letsdo-vinery-forge-1.4.28.jar",
    "sha1": "f7686b0e93c44db4e899726c59d07888253210ef",
    "size": 3295849,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/f7686b0e93c44db4e899726c59d07888253210ef.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/f7686b0e93c44db4e899726c59d07888253210ef.jar"
   },
   {
    "path": "mods/lionfishapi-2.4-Fix.jar",
@@ -10412,7 +10412,7 @@
    "path": "mods/lootr-forge-1.20-0.7.35.93.jar",
    "sha1": "a109f9d34f39af38a394a58fc506583eb078704d",
    "size": 460882,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/a109f9d34f39af38a394a58fc506583eb078704d.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/a109f9d34f39af38a394a58fc506583eb078704d.jar"
   },
   {
    "path": "mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
@@ -10424,7 +10424,7 @@
    "path": "mods/mcw-furniture-3.4.1-mc1.20.1forge.jar",
    "sha1": "c05189646bbde5c0d4486b93de0d707115f8445c",
    "size": 2174615,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c05189646bbde5c0d4486b93de0d707115f8445c.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c05189646bbde5c0d4486b93de0d707115f8445c.jar"
   },
   {
    "path": "mods/mcw-lights-1.1.5-mc1.20.1forge.jar",
@@ -10436,7 +10436,7 @@
    "path": "mods/mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
    "sha1": "d24bc6e1ba7f04e058db019ae5ca3d10edd9510a",
    "size": 708634,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d24bc6e1ba7f04e058db019ae5ca3d10edd9510a.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d24bc6e1ba7f04e058db019ae5ca3d10edd9510a.jar"
   },
   {
    "path": "mods/mcw-mcwpaths-1.1.1-mc1.20.1forge.jar",
@@ -10484,7 +10484,7 @@
    "path": "mods/minervillager-1.20.1-5.7.jar",
    "sha1": "d001084a365e9fef2df5e56a3774f93b4619eae1",
    "size": 418183,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d001084a365e9fef2df5e56a3774f93b4619eae1.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d001084a365e9fef2df5e56a3774f93b4619eae1.jar"
   },
   {
    "path": "mods/mns-1.0.3-1.20-forge.jar",
@@ -10514,19 +10514,19 @@
    "path": "mods/modonomicon-1.20.1-forge-1.79.3.jar",
    "sha1": "bf2254dfd0d92345b7c7ed9082afb3e6b542ac2a",
    "size": 2239688,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/bf2254dfd0d92345b7c7ed9082afb3e6b542ac2a.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/bf2254dfd0d92345b7c7ed9082afb3e6b542ac2a.jar"
   },
   {
    "path": "mods/moonlight-1.20-2.16.35-forge.jar",
    "sha1": "a7885d318f5a6810b0ef543cd1cce7d4308f10e6",
    "size": 1425229,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/a7885d318f5a6810b0ef543cd1cce7d4308f10e6.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/a7885d318f5a6810b0ef543cd1cce7d4308f10e6.jar"
   },
   {
    "path": "mods/morevillagers-forge-1.20.1-5.0.0.jar",
    "sha1": "a6a22e3c7e6ca4a389ce72f82c90144f0a485cf5",
    "size": 233335,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/a6a22e3c7e6ca4a389ce72f82c90144f0a485cf5.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/a6a22e3c7e6ca4a389ce72f82c90144f0a485cf5.jar"
   },
   {
    "path": "mods/mowzies_cataclysm-1.2.0.jar",
@@ -10544,13 +10544,13 @@
    "path": "mods/naturalist-5.0pre5+forge-1.20.1.jar",
    "sha1": "bc2c527dd52a1e6a92a3e34db1a88742e8e7d596",
    "size": 3807415,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/bc2c527dd52a1e6a92a3e34db1a88742e8e7d596.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/bc2c527dd52a1e6a92a3e34db1a88742e8e7d596.jar"
   },
   {
    "path": "mods/netherportalfix-forge-1.20-13.0.1.jar",
    "sha1": "b110e4590177475dcde70dd9dafd5257116ad9f8",
    "size": 217831,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/b110e4590177475dcde70dd9dafd5257116ad9f8.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/b110e4590177475dcde70dd9dafd5257116ad9f8.jar"
   },
   {
    "path": "mods/nethervillagertrader-2.0.0-forge-1.20.1.jar",
@@ -10574,13 +10574,13 @@
    "path": "mods/observable-4.4.2.jar",
    "sha1": "c8a0ae25512d0cedef478df411c87e43703ae237",
    "size": 470536,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c8a0ae25512d0cedef478df411c87e43703ae237.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c8a0ae25512d0cedef478df411c87e43703ae237.jar"
   },
   {
    "path": "mods/oculus-mc1.20.1-1.8.0.jar",
    "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
    "size": 2851119,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/984f774e71790deaec674c7587bd24e0711871b2.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/984f774e71790deaec674c7587bd24e0711871b2.jar"
   },
   {
    "path": "mods/origins-forge-1.20.1-1.10.0.9-all.jar",
@@ -10592,7 +10592,7 @@
    "path": "mods/owo-lib-0.11.2+1.20.jar",
    "sha1": "be88938ca5df78271e64bc9f85c3575754f33e2a",
    "size": 905421,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/be88938ca5df78271e64bc9f85c3575754f33e2a.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/be88938ca5df78271e64bc9f85c3575754f33e2a.jar"
   },
   {
    "path": "mods/packetfixer-3.3.0-1.18-1.20.4-merged.jar",
@@ -10616,7 +10616,7 @@
    "path": "mods/polymorph-forge-0.49.10+1.20.1.jar",
    "sha1": "e4afd6f512cc06311320357ed974cee586e031c3",
    "size": 299601,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/e4afd6f512cc06311320357ed974cee586e031c3.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/e4afd6f512cc06311320357ed974cee586e031c3.jar"
   },
   {
    "path": "mods/radiantgear-forge-2.2.0+1.20.1.jar",
@@ -10628,7 +10628,7 @@
    "path": "mods/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
    "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a",
    "size": 713454,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/f5f5f792473bb7b85ec221f75c5afb3740afb13a.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/f5f5f792473bb7b85ec221f75c5afb3740afb13a.jar"
   },
   {
    "path": "mods/raised-forge-1.20.1-4.0.0.jar",
@@ -10652,7 +10652,7 @@
    "path": "mods/realmrpg_skeletons-1.1.0-forge-1.20.1.jar",
    "sha1": "b3e2385a5df9a24b12089b76f97a9e9337956255",
    "size": 652022,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/b3e2385a5df9a24b12089b76f97a9e9337956255.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/b3e2385a5df9a24b12089b76f97a9e9337956255.jar"
   },
   {
    "path": "mods/regrowth-1.20-46.31.2.jar",
@@ -10688,7 +10688,7 @@
    "path": "mods/rrls-4.0.6.1+mc1.20.1-forge.jar",
    "sha1": "c8f154b0b03dde15c5e901fc7c0c7c701466211d",
    "size": 277896,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c8f154b0b03dde15c5e901fc7c0c7c701466211d.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c8f154b0b03dde15c5e901fc7c0c7c701466211d.jar"
   },
   {
    "path": "mods/saturn-mc1.20.1-0.1.3.jar",
@@ -10700,13 +10700,13 @@
    "path": "mods/savage_and_ravage-1.20.1-6.0.0.jar",
    "sha1": "c4917e21ba156d6d835895a6607f1ecc42ad0d2f",
    "size": 1307346,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c4917e21ba156d6d835895a6607f1ecc42ad0d2f.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c4917e21ba156d6d835895a6607f1ecc42ad0d2f.jar"
   },
   {
    "path": "mods/simplyswords-forge-1.56.0-1.20.1.jar",
    "sha1": "ff801e939da0f9afc2d96cce4375d8c4bb368533",
    "size": 15202091,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/ff801e939da0f9afc2d96cce4375d8c4bb368533.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/ff801e939da0f9afc2d96cce4375d8c4bb368533.jar"
   },
   {
    "path": "mods/sleep_tight-1.20-1.1.19.jar",
@@ -10718,7 +10718,7 @@
    "path": "mods/smallships-forge-1.20.1-2.0.0-b1.4.jar",
    "sha1": "9998ddc8a278e0b87ab642d289ae2a1e3dbebef6",
    "size": 1816687,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/9998ddc8a278e0b87ab642d289ae2a1e3dbebef6.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/9998ddc8a278e0b87ab642d289ae2a1e3dbebef6.jar"
   },
   {
    "path": "mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
@@ -10736,13 +10736,13 @@
    "path": "mods/smoothgui-forge-2.0.6+mc1.20.1.jar",
    "sha1": "e172c125e1da97a0b78edce1a5f1f7585eaed990",
    "size": 726290,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/e172c125e1da97a0b78edce1a5f1f7585eaed990.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/e172c125e1da97a0b78edce1a5f1f7585eaed990.jar"
   },
   {
    "path": "mods/sophisticatedcore-1.20.1-1.5.2.2346.jar",
    "sha1": "e9e7b34bb68ec2aca0f42232919b2cee41a9d251",
    "size": 1756100,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/e9e7b34bb68ec2aca0f42232919b2cee41a9d251.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/e9e7b34bb68ec2aca0f42232919b2cee41a9d251.jar"
   },
   {
    "path": "mods/sophisticatedstorage-1.20.1-1.5.0.2137.jar",
@@ -10760,7 +10760,7 @@
    "path": "mods/soundstriger-1.2.0.jar",
    "sha1": "d2498782d582c081928b621fa56a399a23f15591",
    "size": 62091049,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d2498782d582c081928b621fa56a399a23f15591.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d2498782d582c081928b621fa56a399a23f15591.jar"
   },
   {
    "path": "mods/spark-1.10.53-forge.jar",
@@ -10778,7 +10778,7 @@
    "path": "mods/structure_gel-1.20.1-2.16.2.jar",
    "sha1": "ec8c59d2a69eca3249a8da673f572b40b6d59895",
    "size": 966028,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/ec8c59d2a69eca3249a8da673f572b40b6d59895.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/ec8c59d2a69eca3249a8da673f572b40b6d59895.jar"
   },
   {
    "path": "mods/structureessentials-1.20.1-4.8.jar",
@@ -10790,7 +10790,7 @@
    "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
    "sha1": "f80f9eed728966adcfbcc848633e789645057281",
    "size": 206584,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/f80f9eed728966adcfbcc848633e789645057281.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/f80f9eed728966adcfbcc848633e789645057281.jar"
   },
   {
    "path": "mods/supermartijn642corelib-1.1.24b-forge-mc1.20.1.jar",
@@ -10808,13 +10808,13 @@
    "path": "mods/suppsquared-1.20-1.1.23.jar",
    "sha1": "c69d96d413b5a7f9e4d05db4791db1ad47acf8a1",
    "size": 919568,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c69d96d413b5a7f9e4d05db4791db1ad47acf8a1.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c69d96d413b5a7f9e4d05db4791db1ad47acf8a1.jar"
   },
   {
    "path": "mods/table_top_craft-forge-1.20.1-6.1.2.jar",
    "sha1": "c833b6cc08573029670cee326cb684c2ba344818",
    "size": 1466790,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c833b6cc08573029670cee326cb684c2ba344818.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c833b6cc08573029670cee326cb684c2ba344818.jar"
   },
   {
    "path": "mods/totw_modded-forge-1.20.1-1.0.5.jar",
@@ -10844,7 +10844,7 @@
    "path": "mods/valhelsia_furniture-forgeLS-1.20.1-1.1.3.jar",
    "sha1": "c9ac885deece346a436401a1d94148fa90e16fb9",
    "size": 4382465,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/c9ac885deece346a436401a1d94148fa90e16fb9.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/c9ac885deece346a436401a1d94148fa90e16fb9.jar"
   },
   {
    "path": "mods/villager_warship-1.0.0-forge-1.20.1.jar",
@@ -10862,7 +10862,7 @@
    "path": "mods/watut-forge-1.20.1-1.2.3.jar",
    "sha1": "d376debf1f96f37dbedf56919baeb7da2dcef9ab",
    "size": 435496,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/d376debf1f96f37dbedf56919baeb7da2dcef9ab.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/d376debf1f96f37dbedf56919baeb7da2dcef9ab.jar"
   },
   {
    "path": "mods/waystones-forge-1.20.1-14.1.21.jar",
@@ -10874,7 +10874,7 @@
    "path": "mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
    "sha1": "9fe819dc110461f55909dabbed73e4fe3bdde158",
    "size": 283977,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/9fe819dc110461f55909dabbed73e4fe3bdde158.jar"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/9fe819dc110461f55909dabbed73e4fe3bdde158.jar"
   },
   {
    "path": "mods/woodworks-1.20.1-3.0.1.jar",
@@ -10940,7 +10940,7 @@
    "path": "shaderpacks/ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.5/shaders/block.properties",
    "sha1": "b62ffb3f1b9422298814fe46352c5e371b37fded",
    "size": 1970127,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/b62ffb3f1b9422298814fe46352c5e371b37fded.properties"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/b62ffb3f1b9422298814fe46352c5e371b37fded.properties"
   },
   {
    "path": "shaderpacks/ComplementaryUnbound_r5.5.1 + EuphoriaPatches_1.6.5/shaders/dimension.properties",
@@ -13700,7 +13700,7 @@
    "path": "shaderpacks/MakeUp-UltraFast-9.5f.zip",
    "sha1": "b3873dcc6b39093a6c13c2ec9c5d5eee90c06827",
    "size": 403666,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/b3873dcc6b39093a6c13c2ec9c5d5eee90c06827.zip"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/b3873dcc6b39093a6c13c2ec9c5d5eee90c06827.zip"
   },
   {
    "path": "shaderpacks/MakeUp-UltraFast-9.5f.zip.txt",
@@ -13754,7 +13754,7 @@
    "path": "shaderpacks/superDuperVanilla-1.3.8.zip",
    "sha1": "f2d6d259368e8b8d8807abb1ac28aaa7cff85b8c",
    "size": 2851664,
-   "url": "https://github.com/artemSher/elderwild-pack/releases/download/v0.12.31-b/f2d6d259368e8b8d8807abb1ac28aaa7cff85b8c.zip"
+   "url": "https://raw.githubusercontent.com/artemSher/elderwild-pack/main/assets/f2d6d259368e8b8d8807abb1ac28aaa7cff85b8c.zip"
   }
  ],
  "remove": []
